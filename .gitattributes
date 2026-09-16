@@ -1,0 +1,2 @@
+# Preserve frozen SHA-256 bytes on every platform, including Windows.
+* -text

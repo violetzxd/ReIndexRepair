@@ -34,6 +34,9 @@ one generator, synthetic targets and oracle provenance limit generalization.
 
 ## Offline reproduction (no GPU or external API)
 
+`.gitattributes` preserves the frozen file bytes on Windows as well as Linux;
+automatic LF/CRLF conversion would invalidate the public hash manifest.
+
 ```sh
 python -m venv .venv
 # Activate the environment using your operating system's standard command.

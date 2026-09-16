@@ -1,11 +1,12 @@
 {
   "files": {
+    ".gitattributes": "cbb61f063c0d88b9e092e9d623376445c4ed23b302258604a8ad70894d84c3bb",
     ".github/workflows/verify.yml": "98a5771fa804d1a513368ffde4c694ef7ca3cfabfb1a62ec9a996585a82c01a7",
     ".gitignore": "72fd73941af6830eb1f063cd10910f041b963e639c568b9ab64b4a243e0514c0",
     "CITATION.cff": "0500084bb3bcb9237d4681a0a5d72aeb52c1e87e2b18077f2a6a64fd6de589b6",
     "DATA_LICENSES.md": "6acb7d62c7eb40c6e39ab8994f4bccc0d039eb5cac27f0afc0f494c6ce600cae",
     "LICENSE": "36942d507d330c6d6ffc8aaa4becfc1397178cfcbca3e3ebd42fdb9490403149",
-    "README.md": "48db8d2221be1e18787b3d42eaa2e2da41d780714f2676284cc06fbc1a775cfb",
+    "README.md": "498405d7a38e1b204f027be6d0f1325226c75fe550ff5ddf1c1b62e21ae97526",
     "REPRODUCING.md": "ce4420d4665df519e3f4aa0f9e046f5fa69267824119d419257f3803f595e1fe",
     "artifacts/boundary_migration_cert_50_qwen2p5_7b_96_v3_control.json": "05071a82942db47ab85f330d47d861f931afbb6fd5b36ee7459c8600bebeb83c",
     "artifacts/cert_multiplicity_depth_sweep_100k_v1.json": "9c1dc91e6128e2b5fa3c904083b5a34861d97781bb9a558e707490864829b430",
