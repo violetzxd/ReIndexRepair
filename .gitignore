@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+results/
+models/
+cache/
+datasets/nq/
+datasets/*/corpus.jsonl
+*.aux
+*.log
+*.out
+*.blg

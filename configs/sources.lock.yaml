@@ -1,0 +1,51 @@
+baseline_repositories:
+  poisonedrag:
+    url: https://github.com/sleeepeer/PoisonedRAG.git
+    commit: f660d72174f06b13fae5163ce656e7b235db858f
+  rag_responsibility_attribution:
+    url: https://github.com/zhangbl6618/RAG-Responsibility-Attribution.git
+    commit: fd124bf0c401370d4bcd701a92d952e2fe11ed32
+
+pilot_input:
+  path: external/RAG-Responsibility-Attribution/attack_feedback/PRAGB/k5_m5_e5_gpt-4o-mini.json
+  sha256: b796b3315d02cab19536d7407b36b917799482a0fe1b7ae338e5b5e609f51702
+
+models:
+  bge_base_en_v1_5:
+    name: BAAI/bge-base-en-v1.5
+    revision: a5beb1e3e68b9ab74eb54cfd186867f64f240e1a
+    normalized: true
+    query_prefix: "Represent this sentence for searching relevant passages: "
+  bge_reranker_base:
+    name: BAAI/bge-reranker-base
+    revision: 2cfc18c9415c912f9d8155881c133215df768a70
+  qwen2_5_7b_instruct:
+    name: Qwen/Qwen2.5-7B-Instruct
+    revision: a09a35458c702b33eeacc393d103063234e8bc28
+
+beir_nq:
+  official_url: https://public.ukp.informatik.tu-darmstadt.de/thakur/BEIR/datasets/nq.zip
+  expected_bytes: 498307926
+  sha256: 2553bf7bfbab47b1436ca00a34bce57320e18e611fd00999a2a3a1b4714be752
+  last_modified: 2021-04-13T15:02:26Z
+  extracted:
+    corpus_jsonl:
+      rows: 2681468
+      bytes: 1503763328
+      sha256: f7e3588dd416772c9830baf67e827d49678f8d5a6ccf6e101b9ce990cc7b208c
+    queries_jsonl:
+      bytes: 330995
+      sha256: 72f08f0cd333a47e393dac61cf1e56d4fb41eabf1d6ad5ca99f40250b0b491c8
+    qrels_test_tsv:
+      bytes: 87138
+      sha256: 6df0cd2cbbe88504b64c68f21e946a759b62c4d864225720cec256f0196e2210
+
+nq_development_snapshot_100k:
+  seed: reindexrepair-2027-v1
+  documents: 100000
+  required_relevant_and_hard_negative_documents: 9868
+  random_background_documents: 90132
+  development_incidents: 100
+  certification_eligible: false
+  corpus_sha256: 4051ff1036639ed0516d5a0c84bd3a2cc88616b8b3e89bd13ffa71bad37ea207
+  development_queries_sha256: ee9804f7e3e122a6dd28f4d1b3990cb4eb88d45b76b2adf03f629dbc356dbef1

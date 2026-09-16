@@ -1,0 +1,9 @@
+{
+  "documents": 1000000,
+  "ordered_ids_file": "1m.ids.txt.gz",
+  "ordered_ids_sha256": "ed17d2a1c20efd25b9c346628673c11ef5b1d53c16d5c1cb5299c59b8a5d9c37",
+  "original_manifest_sha256": "c77a062cc9751cae3394acece30ed71d838188fa026c3b686cdd2e99d24f7c9e",
+  "output_corpus_sha256": "96eeac5004370f219cc65a595b0e001d5e7bb9c700f8d9309c0cb4a1bb8c9b2b",
+  "serialization": "json.dumps(record, ensure_ascii=False, sort_keys=True) + LF",
+  "source_corpus_sha256": "f7e3588dd416772c9830baf67e827d49678f8d5a6ccf6e101b9ce990cc7b208c"
+}

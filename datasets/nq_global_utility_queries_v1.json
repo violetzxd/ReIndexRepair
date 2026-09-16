@@ -1,0 +1,1066 @@
+{
+  "inputs": {
+    "certification_queries_sha256": "7ce8f5547fd3b6145453f08716a42859f4f476df4c71c4b3a660b5e3e13dd865",
+    "full_queries_sha256": "72f08f0cd333a47e393dac61cf1e56d4fb41eabf1d6ad5ca99f40250b0b491c8",
+    "qrels_sha256": "6df0cd2cbbe88504b64c68f21e946a759b62c4d864225720cec256f0196e2210",
+    "snapshot_corpus_sha256": "2a851dc003f66df39847f75377b2da3e61e74ec2d7a286a0884d8e5abd9ee88e"
+  },
+  "paper_evidence_candidate": true,
+  "queries": [
+    {
+      "query_id": "test2110",
+      "question": "who was the first to declare the mutiny against the british",
+      "relevant_document_ids": [
+        "doc73340"
+      ]
+    },
+    {
+      "query_id": "test2485",
+      "question": "when was the cello invented and by whom",
+      "relevant_document_ids": [
+        "doc85688"
+      ]
+    },
+    {
+      "query_id": "test959",
+      "question": "when does season 2 of limitless come out",
+      "relevant_document_ids": [
+        "doc33921"
+      ]
+    },
+    {
+      "query_id": "test1636",
+      "question": "who want to be a millionaire calls his dad",
+      "relevant_document_ids": [
+        "doc57980"
+      ]
+    },
+    {
+      "query_id": "test3135",
+      "question": "who has access to the presidential daily briefing",
+      "relevant_document_ids": [
+        "doc107069"
+      ]
+    },
+    {
+      "query_id": "test2988",
+      "question": "the boiling point of water is 100 degrees celsius express this in si units",
+      "relevant_document_ids": [
+        "doc102453"
+      ]
+    },
+    {
+      "query_id": "test1065",
+      "question": "what is the female lion called in lion king",
+      "relevant_document_ids": [
+        "doc37055"
+      ]
+    },
+    {
+      "query_id": "test1590",
+      "question": "where can you find dna in the body",
+      "relevant_document_ids": [
+        "doc56521"
+      ]
+    },
+    {
+      "query_id": "test3047",
+      "question": "the duluth model is an intervention program that emphasizes",
+      "relevant_document_ids": [
+        "doc104417"
+      ]
+    },
+    {
+      "query_id": "test790",
+      "question": "when was the first commercial cell phone released",
+      "relevant_document_ids": [
+        "doc28144"
+      ]
+    },
+    {
+      "query_id": "test2623",
+      "question": "how many seasons of rules of engagement is there",
+      "relevant_document_ids": [
+        "doc89936"
+      ]
+    },
+    {
+      "query_id": "test2282",
+      "question": "what happened at the chernobyl nuclear power plant",
+      "relevant_document_ids": [
+        "doc78958"
+      ]
+    },
+    {
+      "query_id": "test1692",
+      "question": "an american colonist who did not support the fight for independence",
+      "relevant_document_ids": [
+        "doc59943"
+      ]
+    },
+    {
+      "query_id": "test1068",
+      "question": "how many seasons are in star wars the clone wars",
+      "relevant_document_ids": [
+        "doc37187"
+      ]
+    },
+    {
+      "query_id": "test1269",
+      "question": "where did the punch brothers get their name",
+      "relevant_document_ids": [
+        "doc45002"
+      ]
+    },
+    {
+      "query_id": "test1347",
+      "question": "who was the movie citizen kane based on",
+      "relevant_document_ids": [
+        "doc47560"
+      ]
+    },
+    {
+      "query_id": "test1004",
+      "question": "how many books are in the one piece series",
+      "relevant_document_ids": [
+        "doc35438"
+      ]
+    },
+    {
+      "query_id": "test2063",
+      "question": "the product of two orthogonal matrices is orthogonal",
+      "relevant_document_ids": [
+        "doc71980"
+      ]
+    },
+    {
+      "query_id": "test589",
+      "question": "who is the girl that played darlene in roseanne",
+      "relevant_document_ids": [
+        "doc21194"
+      ]
+    },
+    {
+      "query_id": "test1912",
+      "question": "who is the girl in the hinder video lips of an angel",
+      "relevant_document_ids": [
+        "doc67058"
+      ]
+    },
+    {
+      "query_id": "test3232",
+      "question": "negative side effect of the tariff bill of 1890",
+      "relevant_document_ids": [
+        "doc110656"
+      ]
+    },
+    {
+      "query_id": "test580",
+      "question": "when was the last time the jets won a playoff game",
+      "relevant_document_ids": [
+        "doc20961"
+      ]
+    },
+    {
+      "query_id": "test2851",
+      "question": "when does thomas rhett's new album come out",
+      "relevant_document_ids": [
+        "doc97656"
+      ]
+    },
+    {
+      "query_id": "test1759",
+      "question": "song god bless the child that's got his own",
+      "relevant_document_ids": [
+        "doc62054"
+      ]
+    },
+    {
+      "query_id": "test912",
+      "question": "who is the quarterback for the green bay packers",
+      "relevant_document_ids": [
+        "doc32599"
+      ]
+    },
+    {
+      "query_id": "test2636",
+      "question": "motion of earth is a combination of motion",
+      "relevant_document_ids": [
+        "doc90322"
+      ]
+    },
+    {
+      "query_id": "test3091",
+      "question": "in the song i drive your truck who is he talking about",
+      "relevant_document_ids": [
+        "doc105773"
+      ]
+    },
+    {
+      "query_id": "test1879",
+      "question": "ganglion axons forming the optic nerve run to the",
+      "relevant_document_ids": [
+        "doc65978"
+      ]
+    },
+    {
+      "query_id": "test1623",
+      "question": "who sings the theme song for the tv show cops",
+      "relevant_document_ids": [
+        "doc57669"
+      ]
+    },
+    {
+      "query_id": "test1170",
+      "question": "when was the last time the ducks won the stanley cup",
+      "relevant_document_ids": [
+        "doc41457"
+      ]
+    },
+    {
+      "query_id": "test2690",
+      "question": "where does iron ore come from in australia",
+      "relevant_document_ids": [
+        "doc92225"
+      ]
+    },
+    {
+      "query_id": "test2197",
+      "question": "where does the term dog and pony show come from",
+      "relevant_document_ids": [
+        "doc76488"
+      ]
+    },
+    {
+      "query_id": "test1166",
+      "question": "when was south african youth day first celebrated",
+      "relevant_document_ids": [
+        "doc41378"
+      ]
+    },
+    {
+      "query_id": "test426",
+      "question": "where was the war of the planet of the apes filmed",
+      "relevant_document_ids": [
+        "doc15851"
+      ]
+    },
+    {
+      "query_id": "test2947",
+      "question": "how many casinos are in atlantic city new jersey",
+      "relevant_document_ids": [
+        "doc100961"
+      ]
+    },
+    {
+      "query_id": "test706",
+      "question": "mainland greece is a body of land with water on three sides called",
+      "relevant_document_ids": [
+        "doc25144"
+      ]
+    },
+    {
+      "query_id": "test1942",
+      "question": "what is the meaning of gorakh dhanda in urdu",
+      "relevant_document_ids": [
+        "doc68057"
+      ]
+    },
+    {
+      "query_id": "test108",
+      "question": "what college does everyone in gossip girl go to",
+      "relevant_document_ids": [
+        "doc3924"
+      ]
+    },
+    {
+      "query_id": "test0",
+      "question": "what is non controlling interest on balance sheet",
+      "relevant_document_ids": [
+        "doc0"
+      ]
+    },
+    {
+      "query_id": "test1279",
+      "question": "don mclean's popular 1971 song american pie was inspired by what event",
+      "relevant_document_ids": [
+        "doc45181"
+      ]
+    },
+    {
+      "query_id": "test1958",
+      "question": "when was the term social justice first used",
+      "relevant_document_ids": [
+        "doc68766"
+      ]
+    },
+    {
+      "query_id": "test653",
+      "question": "when was the book pride and prejudice written",
+      "relevant_document_ids": [
+        "doc23259"
+      ]
+    },
+    {
+      "query_id": "test1513",
+      "question": "what's the dog's name on tom and jerry",
+      "relevant_document_ids": [
+        "doc53990"
+      ]
+    },
+    {
+      "query_id": "test2596",
+      "question": "who played ben stone son on law and order",
+      "relevant_document_ids": [
+        "doc88901"
+      ]
+    },
+    {
+      "query_id": "test130",
+      "question": "what is the center of heredity in a cell",
+      "relevant_document_ids": [
+        "doc4898"
+      ]
+    },
+    {
+      "query_id": "test816",
+      "question": "who was allowed to vote in the roman republic",
+      "relevant_document_ids": [
+        "doc29338"
+      ]
+    },
+    {
+      "query_id": "test1407",
+      "question": "who sings god gave rock and roll to you",
+      "relevant_document_ids": [
+        "doc50266"
+      ]
+    },
+    {
+      "query_id": "test2329",
+      "question": "when did equus first appear in fossil record",
+      "relevant_document_ids": [
+        "doc80452"
+      ]
+    },
+    {
+      "query_id": "test1984",
+      "question": "where does hydrogen peroxide come from in the body",
+      "relevant_document_ids": [
+        "doc69547"
+      ]
+    },
+    {
+      "query_id": "test236",
+      "question": "when was the internet introduced to the public",
+      "relevant_document_ids": [
+        "doc8602"
+      ]
+    },
+    {
+      "query_id": "test265",
+      "question": "when does season 3 of strnger things come out",
+      "relevant_document_ids": [
+        "doc9783"
+      ]
+    },
+    {
+      "query_id": "test74",
+      "question": "who named all the animals in the world",
+      "relevant_document_ids": [
+        "doc2254"
+      ]
+    },
+    {
+      "query_id": "test632",
+      "question": "do i have to sign a police caution",
+      "relevant_document_ids": [
+        "doc22567"
+      ]
+    },
+    {
+      "query_id": "test619",
+      "question": "where does a brisket come from on a cow",
+      "relevant_document_ids": [
+        "doc22116"
+      ]
+    },
+    {
+      "query_id": "test1644",
+      "question": "can you use the wii u pro controller on the wii",
+      "relevant_document_ids": [
+        "doc58306"
+      ]
+    },
+    {
+      "query_id": "test2938",
+      "question": "where is the oldest civilization known to man",
+      "relevant_document_ids": [
+        "doc100593"
+      ]
+    },
+    {
+      "query_id": "test2294",
+      "question": "who sang will i see you in september",
+      "relevant_document_ids": [
+        "doc79496"
+      ]
+    },
+    {
+      "query_id": "test1448",
+      "question": "when does the movie the star come out",
+      "relevant_document_ids": [
+        "doc51641"
+      ]
+    },
+    {
+      "query_id": "test361",
+      "question": "what is the difference between cheddar and american cheese",
+      "relevant_document_ids": [
+        "doc13835"
+      ]
+    },
+    {
+      "query_id": "test772",
+      "question": "who played the princess in kingsman secret service",
+      "relevant_document_ids": [
+        "doc27589"
+      ]
+    },
+    {
+      "query_id": "test2313",
+      "question": "who hit 6 sixes in an over in test cricket",
+      "relevant_document_ids": [
+        "doc79856"
+      ]
+    },
+    {
+      "query_id": "test585",
+      "question": "who plays lady talisa in game of thrones",
+      "relevant_document_ids": [
+        "doc21111"
+      ]
+    },
+    {
+      "query_id": "test1381",
+      "question": "what year did return of the mack come out",
+      "relevant_document_ids": [
+        "doc48965"
+      ]
+    },
+    {
+      "query_id": "test2071",
+      "question": "the radiographic term used to describe the dense bone of the socket and septal crest is",
+      "relevant_document_ids": [
+        "doc72167"
+      ]
+    },
+    {
+      "query_id": "test701",
+      "question": "where do the maple leafs play hockey in toronto",
+      "relevant_document_ids": [
+        "doc24974"
+      ]
+    },
+    {
+      "query_id": "test325",
+      "question": "what type of economic system was utilized in the soviet union",
+      "relevant_document_ids": [
+        "doc12550"
+      ]
+    },
+    {
+      "query_id": "test1011",
+      "question": "who is the head of the department of homeland security 2017",
+      "relevant_document_ids": [
+        "doc35746"
+      ]
+    },
+    {
+      "query_id": "test3130",
+      "question": "when did the song holiday road come out",
+      "relevant_document_ids": [
+        "doc106945"
+      ]
+    },
+    {
+      "query_id": "test2846",
+      "question": "who is the actress that plays penny on the big bang theory",
+      "relevant_document_ids": [
+        "doc97448"
+      ]
+    },
+    {
+      "query_id": "test2348",
+      "question": "who was the king of england in 1756",
+      "relevant_document_ids": [
+        "doc81099"
+      ]
+    },
+    {
+      "query_id": "test1320",
+      "question": "who is super bowl 2018 half time show",
+      "relevant_document_ids": [
+        "doc46784"
+      ]
+    },
+    {
+      "query_id": "test1078",
+      "question": "what is the white stuff on hot cross buns",
+      "relevant_document_ids": [
+        "doc37453"
+      ]
+    },
+    {
+      "query_id": "test174",
+      "question": "what is the meaning of https //",
+      "relevant_document_ids": [
+        "doc6333"
+      ]
+    },
+    {
+      "query_id": "test2503",
+      "question": "who sang once upon a dream at the end of maleficent",
+      "relevant_document_ids": [
+        "doc86433"
+      ]
+    },
+    {
+      "query_id": "test897",
+      "question": "where is the world's highest battlefield located",
+      "relevant_document_ids": [
+        "doc31953"
+      ]
+    },
+    {
+      "query_id": "test1736",
+      "question": "what type of political system does el salvador have",
+      "relevant_document_ids": [
+        "doc61486"
+      ]
+    },
+    {
+      "query_id": "test1749",
+      "question": "when did the first train run in england",
+      "relevant_document_ids": [
+        "doc61735"
+      ]
+    },
+    {
+      "query_id": "test61",
+      "question": "where does the electron transport chain pumps protons",
+      "relevant_document_ids": [
+        "doc1679"
+      ]
+    },
+    {
+      "query_id": "test2123",
+      "question": "what does watch your p's and q's",
+      "relevant_document_ids": [
+        "doc73750"
+      ]
+    },
+    {
+      "query_id": "test1187",
+      "question": "how many players on the line of scrimmage in american football",
+      "relevant_document_ids": [
+        "doc42023"
+      ]
+    },
+    {
+      "query_id": "test2949",
+      "question": "what is the normal range for plasma glucose concentration",
+      "relevant_document_ids": [
+        "doc100984"
+      ]
+    },
+    {
+      "query_id": "test3425",
+      "question": "what goes on the bottom of shepherd's pie",
+      "relevant_document_ids": [
+        "doc116519"
+      ]
+    },
+    {
+      "query_id": "test52",
+      "question": "who sang in the movie i walk the line",
+      "relevant_document_ids": [
+        "doc1432"
+      ]
+    },
+    {
+      "query_id": "test22",
+      "question": "latest season on keeping up with the kardashians",
+      "relevant_document_ids": [
+        "doc649"
+      ]
+    },
+    {
+      "query_id": "test232",
+      "question": "who opens the church of the holy sepulchre",
+      "relevant_document_ids": [
+        "doc8459"
+      ]
+    },
+    {
+      "query_id": "test3237",
+      "question": "where is the mitral (bicuspid) valve located",
+      "relevant_document_ids": [
+        "doc110776"
+      ]
+    },
+    {
+      "query_id": "test2826",
+      "question": "when was zero first used in mathematical operations",
+      "relevant_document_ids": [
+        "doc96920",
+        "doc96937"
+      ]
+    },
+    {
+      "query_id": "test2432",
+      "question": "what is the role of the gut flora",
+      "relevant_document_ids": [
+        "doc83950"
+      ]
+    },
+    {
+      "query_id": "test128",
+      "question": "when did celebs go dating go cape verde",
+      "relevant_document_ids": [
+        "doc4759"
+      ]
+    },
+    {
+      "query_id": "test3284",
+      "question": "where does the microchip go in a dog",
+      "relevant_document_ids": [
+        "doc112414"
+      ]
+    },
+    {
+      "query_id": "test126",
+      "question": "where did little mix come in x factor",
+      "relevant_document_ids": [
+        "doc4714"
+      ]
+    },
+    {
+      "query_id": "test2018",
+      "question": "where do the question marks go in spanish",
+      "relevant_document_ids": [
+        "doc70558"
+      ]
+    },
+    {
+      "query_id": "test3349",
+      "question": "what types of cells go through binary fission",
+      "relevant_document_ids": [
+        "doc114383"
+      ]
+    },
+    {
+      "query_id": "test397",
+      "question": "atlantic ocean's shape is similar to which english alphabet",
+      "relevant_document_ids": [
+        "doc14850"
+      ]
+    },
+    {
+      "query_id": "test1788",
+      "question": "who sings i want to dance with you",
+      "relevant_document_ids": [
+        "doc63021"
+      ]
+    },
+    {
+      "query_id": "test883",
+      "question": "where does the coral sea meet the pacific ocean",
+      "relevant_document_ids": [
+        "doc31535"
+      ]
+    },
+    {
+      "query_id": "test2650",
+      "question": "when does a cell have condensed visible chromosomes also known as sister chromatids",
+      "relevant_document_ids": [
+        "doc90765"
+      ]
+    },
+    {
+      "query_id": "test2341",
+      "question": "when did they start vaccinating for whooping cough",
+      "relevant_document_ids": [
+        "doc80813"
+      ]
+    },
+    {
+      "query_id": "test223",
+      "question": "why the hole in the ozone layer over antarctica",
+      "relevant_document_ids": [
+        "doc8068"
+      ]
+    },
+    {
+      "query_id": "test3054",
+      "question": "what is the function of a viral capsid",
+      "relevant_document_ids": [
+        "doc104595"
+      ]
+    },
+    {
+      "query_id": "test339",
+      "question": "where is the majority of phosphorous stored in the environment",
+      "relevant_document_ids": [
+        "doc12887"
+      ]
+    },
+    {
+      "query_id": "test2695",
+      "question": "hart of dixie season 4 how many episodes",
+      "relevant_document_ids": [
+        "doc92396"
+      ]
+    },
+    {
+      "query_id": "test964",
+      "question": "the cook the thief the wife the lover costumes",
+      "relevant_document_ids": [
+        "doc34056"
+      ]
+    },
+    {
+      "query_id": "test2198",
+      "question": "who is recognized as the founder of islam",
+      "relevant_document_ids": [
+        "doc76491"
+      ]
+    },
+    {
+      "query_id": "test3314",
+      "question": "when was the letter j introduced to the alphabet",
+      "relevant_document_ids": [
+        "doc113186"
+      ]
+    },
+    {
+      "query_id": "test9",
+      "question": "who makes the decisions about what to produce in a market economy",
+      "relevant_document_ids": [
+        "doc91"
+      ]
+    },
+    {
+      "query_id": "test590",
+      "question": "what type of joint connects the incus with the malleus",
+      "relevant_document_ids": [
+        "doc21208"
+      ]
+    },
+    {
+      "query_id": "test1725",
+      "question": "who is the head a in pretty little liars",
+      "relevant_document_ids": [
+        "doc61143"
+      ]
+    },
+    {
+      "query_id": "test3067",
+      "question": "what does single episode major depressive disorder mean",
+      "relevant_document_ids": [
+        "doc104926"
+      ]
+    },
+    {
+      "query_id": "test1113",
+      "question": "where did the legend of the easter bunny come from",
+      "relevant_document_ids": [
+        "doc39111"
+      ]
+    },
+    {
+      "query_id": "test2843",
+      "question": "who established the idea that microorganisms play a role in disease",
+      "relevant_document_ids": [
+        "doc97393"
+      ]
+    },
+    {
+      "query_id": "test1074",
+      "question": "who said what we got here is failure to communicate",
+      "relevant_document_ids": [
+        "doc37317"
+      ]
+    },
+    {
+      "query_id": "test230",
+      "question": "when did the wall come down in berlin",
+      "relevant_document_ids": [
+        "doc8277"
+      ]
+    },
+    {
+      "query_id": "test1907",
+      "question": "when does finding your roots air on pbs",
+      "relevant_document_ids": [
+        "doc66913"
+      ]
+    },
+    {
+      "query_id": "test2655",
+      "question": "what was hawaii's primary export to the united states",
+      "relevant_document_ids": [
+        "doc91035"
+      ]
+    },
+    {
+      "query_id": "test2539",
+      "question": "how many pennsylvania house of representatives are there",
+      "relevant_document_ids": [
+        "doc87294"
+      ]
+    },
+    {
+      "query_id": "test1435",
+      "question": "what is the main premise behind the marketing concept",
+      "relevant_document_ids": [
+        "doc51034"
+      ]
+    },
+    {
+      "query_id": "test3384",
+      "question": "when did the first pokemon game come out",
+      "relevant_document_ids": [
+        "doc115492"
+      ]
+    },
+    {
+      "query_id": "test601",
+      "question": "when does the world cup of hockey start",
+      "relevant_document_ids": [
+        "doc21491"
+      ]
+    },
+    {
+      "query_id": "test1820",
+      "question": "what ethnic group celebrates its contribution to america in october",
+      "relevant_document_ids": [
+        "doc63998"
+      ]
+    },
+    {
+      "query_id": "test1082",
+      "question": "who designed the earth day flag in 1969",
+      "relevant_document_ids": [
+        "doc37757"
+      ]
+    },
+    {
+      "query_id": "test245",
+      "question": "why is the ball and stick model not a true representation of the structure of an ionic compound",
+      "relevant_document_ids": [
+        "doc9069"
+      ]
+    },
+    {
+      "query_id": "test3102",
+      "question": "where is urinary bladder located in human body",
+      "relevant_document_ids": [
+        "doc106173",
+        "doc106179"
+      ]
+    },
+    {
+      "query_id": "test2517",
+      "question": "attitudes of a person toward some object or idea are highly resistant to change",
+      "relevant_document_ids": [
+        "doc86766"
+      ]
+    },
+    {
+      "query_id": "test315",
+      "question": "who dies in the beginning of deathly hallows part 1",
+      "relevant_document_ids": [
+        "doc12046"
+      ]
+    },
+    {
+      "query_id": "test2699",
+      "question": "who sang you'll be a woman soon in pulp fiction",
+      "relevant_document_ids": [
+        "doc92418"
+      ]
+    },
+    {
+      "query_id": "test1565",
+      "question": "the seed of a gymnosperm seed is made in the",
+      "relevant_document_ids": [
+        "doc55917"
+      ]
+    },
+    {
+      "query_id": "test1829",
+      "question": "where does blood go when it leaves the pulmonary artery",
+      "relevant_document_ids": [
+        "doc64318"
+      ]
+    },
+    {
+      "query_id": "test650",
+      "question": "who is dylan's father in bates motel",
+      "relevant_document_ids": [
+        "doc23091"
+      ]
+    },
+    {
+      "query_id": "test1542",
+      "question": "who was the pitcher who broke his arm",
+      "relevant_document_ids": [
+        "doc55247"
+      ]
+    },
+    {
+      "query_id": "test2242",
+      "question": "does archie end up with betty or veronica in riverdale",
+      "relevant_document_ids": [
+        "doc77890"
+      ]
+    },
+    {
+      "query_id": "test2319",
+      "question": "how many branches of reserve bank of india in india",
+      "relevant_document_ids": [
+        "doc80042"
+      ]
+    },
+    {
+      "query_id": "test1685",
+      "question": "who sings too much time on my hands lyrics",
+      "relevant_document_ids": [
+        "doc59698"
+      ]
+    },
+    {
+      "query_id": "test1356",
+      "question": "protein identification the origins of peptide mass fingerprinting",
+      "relevant_document_ids": [
+        "doc47861"
+      ]
+    },
+    {
+      "query_id": "test1876",
+      "question": "how many pairs of legs does a centipede have",
+      "relevant_document_ids": [
+        "doc65879"
+      ]
+    },
+    {
+      "query_id": "test1299",
+      "question": "public companies are part of what economic sector",
+      "relevant_document_ids": [
+        "doc46115"
+      ]
+    },
+    {
+      "query_id": "test1694",
+      "question": "what kind of fish live in the salton sea",
+      "relevant_document_ids": [
+        "doc60092"
+      ]
+    },
+    {
+      "query_id": "test2643",
+      "question": "who is johnny in the devil went down to georgia",
+      "relevant_document_ids": [
+        "doc90475"
+      ]
+    },
+    {
+      "query_id": "test1959",
+      "question": "when did it become law to stand for the national anthem",
+      "relevant_document_ids": [
+        "doc68843",
+        "doc68845"
+      ]
+    },
+    {
+      "query_id": "test3370",
+      "question": "how far is the pitchers mound to home plate in little league baseball",
+      "relevant_document_ids": [
+        "doc115116"
+      ]
+    },
+    {
+      "query_id": "test261",
+      "question": "who sings i feel love with the blue man group",
+      "relevant_document_ids": [
+        "doc9673"
+      ]
+    },
+    {
+      "query_id": "test249",
+      "question": "what was the immediate catalyst to the civil war",
+      "relevant_document_ids": [
+        "doc9185"
+      ]
+    },
+    {
+      "query_id": "test3040",
+      "question": "where did the french immigrants settle in texas",
+      "relevant_document_ids": [
+        "doc104137"
+      ]
+    },
+    {
+      "query_id": "test2035",
+      "question": "who drives the number 95 car in nascar",
+      "relevant_document_ids": [
+        "doc71032"
+      ]
+    },
+    {
+      "query_id": "test3308",
+      "question": "when did little house on the praire air",
+      "relevant_document_ids": [
+        "doc113065"
+      ]
+    },
+    {
+      "query_id": "test2798",
+      "question": "dogs name in the grinch who stole christmas",
+      "relevant_document_ids": [
+        "doc96241"
+      ]
+    },
+    {
+      "query_id": "test2580",
+      "question": "where was the movie a walk among the tombstones filmed",
+      "relevant_document_ids": [
+        "doc88528"
+      ]
+    },
+    {
+      "query_id": "test1709",
+      "question": "why is the cockerel the symbol of france",
+      "relevant_document_ids": [
+        "doc60600"
+      ]
+    },
+    {
+      "query_id": "test717",
+      "question": "who sings in everybody dies in their nightmares",
+      "relevant_document_ids": [
+        "doc25681"
+      ]
+    },
+    {
+      "query_id": "test3450",
+      "question": "where does the great outdoors movie take place",
+      "relevant_document_ids": [
+        "doc117663"
+      ]
+    }
+  ],
+  "seed": "reindexrepair-global-utility-v1",
+  "status": "utility_suite_selected_without_running_utility_outcomes"
+}

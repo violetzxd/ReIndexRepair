@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reindexrepair"
+version = "0.1.0"
+description = "Full-pipeline counterfactual repair experiments for poisoned RAG"
+requires-python = ">=3.9"
+dependencies = [
+  "numpy>=1.23",
+  "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7", "openpyxl>=3.0", "matplotlib>=3.5"]
+real = [
+  "torch>=2.1",
+  "transformers>=4.45",
+  "sentence-transformers>=3.0",
+  "datasets>=2.20",
+  "faiss-cpu>=1.8",
+  "hnswlib>=0.8",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

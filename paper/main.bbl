@@ -1,0 +1,171 @@
+\begin{thebibliography}{10}
+
+\bibitem{lewis2020rag}
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir
+  Karpukhin, Naman Goyal, Heinrich K{\"u}ttler, Mike Lewis, Wen tau Yih, Tim
+  Rockt{\"a}schel, Sebastian Riedel, and Douwe Kiela,
+\newblock ``Retrieval-augmented generation for knowledge-intensive {NLP}
+  tasks,''
+\newblock in {\em Advances in Neural Information Processing Systems}, 2020,
+  vol.~33, pp. 9459--9474.
+
+\bibitem{karpukhin2020dpr}
+Vladimir Karpukhin, Barlas O{\u g}uz, Sewon Min, Patrick Lewis, Ledell Wu,
+  Sergey Edunov, Danqi Chen, and Wen tau Yih,
+\newblock ``Dense passage retrieval for open-domain question answering,''
+\newblock in {\em Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, 2020, pp. 6769--6781.
+
+\bibitem{zou2025poisonedrag}
+Wei Zou, Runpeng Geng, Binghui Wang, and Jinyuan Jia,
+\newblock ``{PoisonedRAG}: Knowledge corruption attacks to retrieval-augmented
+  generation of large language models,''
+\newblock in {\em 34th USENIX Security Symposium}, 2025, pp. 3827--3844.
+
+\bibitem{yamashita2025deletion}
+Tomohiro Yamashita, Daichi Amagata, and Yusuke Matsui,
+\newblock ``How should we evaluate data deletion in graph-based {ANN}
+  indexes?,''
+\newblock in {\em NeurIPS Workshop on Machine Learning for Systems}, 2025.
+
+\bibitem{zhang2025ragforensics}
+Baolei Zhang, Haoran Xin, Minghong Fang, Zhuqing Liu, Biao Yi, Tong Li, and
+  Zheli Liu,
+\newblock ``Traceback of poisoning attacks to retrieval-augmented generation,''
+\newblock in {\em Proceedings of the ACM on Web Conference 2025}, 2025, pp.
+  2085--2097.
+
+\bibitem{zhang2025ragorigin}
+Baolei Zhang, Haoran Xin, Yuxi Chen, Zhuqing Liu, Biao Yi, Tong Li, Lihai Nie,
+  Zheli Liu, and Minghong Fang,
+\newblock ``Who taught the lie? responsibility attribution for poisoned
+  knowledge in retrieval-augmented generation,''
+\newblock in {\em IEEE Symposium on Security and Privacy (SP)}, 2026, pp.
+  4203--4222.
+
+\bibitem{cui2026needle}
+Huining Cui and Wei Liu,
+\newblock ``Needle-in-rag: Prompt-conditioned character-level traceback of
+  poisoned spans in retrieved evidence,''
+\newblock {\em arXiv preprint arXiv:2605.01782}, 2026.
+
+\bibitem{moradi2026cegrag}
+Razieh Moradi, Havva~Alizadeh Noughabi, Fattane Zarrinkalam, and Ali
+  Dehghantanha,
+\newblock ``Defending rag against knowledge poisoning using cross-encoder
+  activation signals,''
+\newblock in {\em Proceedings of the 39th Canadian Conference on Artificial
+  Intelligence}, 2026, vol. 318 of {\em Proceedings of Machine Learning
+  Research}, pp. 366--376.
+
+\bibitem{pathmanathan2025ragmask}
+Pankayaraj Pathmanathan, Michael-Andrei Panaitescu-Liess, Cho-Yu~Jason Chiang,
+  and Furong Huang,
+\newblock ``{RAGPart} \& {RAGMask}: Retrieval-stage defenses against corpus
+  poisoning in retrieval-augmented generation,''
+\newblock {\em arXiv preprint arXiv:2512.24268}, 2025,
+\newblock AAAI 2026 Workshop on New Frontiers in Information Retrieval.
+
+\bibitem{noughabi2026hog}
+Havva~Alizadeh Noughabi, Fattane Zarrinkalam, and Ali Dehghantanha,
+\newblock ``Defense against knowledge poisoning attack on {GraphRAG},''
+\newblock in {\em Proceedings of the 64th Annual Meeting of the Association for
+  Computational Linguistics (Volume 2: Short Papers)}, 2026, pp. 555--563.
+
+\bibitem{chang2025authchain}
+Zhiyuan Chang, Mingyang Li, Xiaojun Jia, Junjie Wang, Yuekai Huang, Ziyou
+  Jiang, Yang Liu, and Qing Wang,
+\newblock ``One shot dominance: Knowledge poisoning attack on
+  retrieval-augmented generation systems,''
+\newblock in {\em Findings of the Association for Computational Linguistics:
+  EMNLP}, 2025, pp. 18811--18825.
+
+\bibitem{nie2026crcp}
+Xi~Nie, Hongwei Li, Shenghao Wu, Mingxuan Li, Jiachen Li, and Wenbo Jiang,
+\newblock ``When poison fails after retrieval: Revisiting corpus poisoning
+  under chunking and reranking pipelines,''
+\newblock {\em arXiv preprint arXiv:2606.11265}, 2026.
+
+\bibitem{wang2026ragunlearning}
+Shang Wang, Tianqing Zhu, Dayong Ye, and Wanlei Zhou,
+\newblock ``When machine unlearning meets retrieval-augmented generation
+  ({RAG}): Keep secret or forget knowledge?,''
+\newblock {\em IEEE Transactions on Dependable and Secure Computing}, vol. 23,
+  no. 2, pp. 2030--2045, 2026.
+
+\bibitem{wang2026eraser4rag}
+Yujing Wang, Jinwen Chen, Hainan Zhang, Liang Pang, Yongxin Tong, Binghui Guo,
+  Hongwei Zheng, and Zhiming Zheng,
+\newblock ``Learning to erase private knowledge from multi-documents for
+  retrieval-augmented large language models,''
+\newblock {\em arXiv preprint arXiv:2504.09910}, 2025,
+\newblock Revised June 2026.
+
+\bibitem{thakur2021beir}
+Nandan Thakur, Nils Reimers, Andreas R{\"u}ckl{\'e}, Abhishek Srivastava, and
+  Iryna Gurevych,
+\newblock ``{BEIR}: A heterogeneous benchmark for zero-shot evaluation of
+  information retrieval models,''
+\newblock in {\em Proceedings of the Neural Information Processing Systems
+  Track on Datasets and Benchmarks}, 2021, vol.~1.
+
+\bibitem{kwiatkowski2019nq}
+Tom Kwiatkowski, Jennimaria Palomaki, Olivia Redfield, Michael Collins, Ankur
+  Parikh, Chris Alberti, Danielle Epstein, Illia Polosukhin, Jacob Devlin,
+  Kenton Lee, Kristina Toutanova, Llion Jones, Matthew Kelcey, Ming-Wei Chang,
+  Andrew~M. Dai, Jakob Uszkoreit, Quoc Le, and Slav Petrov,
+\newblock ``Natural questions: A benchmark for question answering research,''
+\newblock {\em Transactions of the Association for Computational Linguistics},
+  vol. 7, pp. 453--466, 2019.
+
+\bibitem{xiao2024cpack}
+Shitao Xiao, Zheng Liu, Peitian Zhang, Niklas Muennighoff, Defu Lian, and
+  Jian-Yun Nie,
+\newblock ``{C-Pack}: Packed resources for general chinese embeddings,''
+\newblock in {\em Proceedings of the 47th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval}, 2024, pp. 641--649.
+
+\bibitem{qwen2024report}
+An~Yang, Baosong Yang, Beichen Zhang, Binyuan Hui, Bo~Zheng, Bowen Yu, et~al.,
+\newblock ``{Qwen2.5} technical report,''
+\newblock {\em arXiv preprint arXiv:2412.15115}, 2024,
+\newblock Revised January 2025.
+
+\bibitem{douze2024faiss}
+Matthijs Douze, Alexandr Guzhva, Chengqi Deng, Jeff Johnson, Gergely Szilvasy,
+  Pierre-Emmanuel Mazar{\'e}, Maria Lomeli, Lucas Hosseini, and Herv{\'e}
+  J{\'e}gou,
+\newblock ``The {Faiss} library,''
+\newblock {\em arXiv preprint arXiv:2401.08281}, 2024,
+\newblock Revised October 2025.
+
+\bibitem{cohen1960agreement}
+Jacob Cohen,
+\newblock ``A coefficient of agreement for nominal scales,''
+\newblock {\em Educational and Psychological Measurement}, vol. 20, no. 1, pp.
+  37--46, 1960.
+
+\bibitem{mcnemar1947note}
+Quinn McNemar,
+\newblock ``Note on the sampling error of the difference between correlated
+  proportions or percentages,''
+\newblock {\em Psychometrika}, vol. 12, no. 2, pp. 153--157, 1947.
+
+\bibitem{holm1979simple}
+Sture Holm,
+\newblock ``A simple sequentially rejective multiple test procedure,''
+\newblock {\em Scandinavian Journal of Statistics}, vol. 6, no. 2, pp. 65--70,
+  1979.
+
+\bibitem{clopper1934limits}
+C.~J. Clopper and E.~S. Pearson,
+\newblock ``The use of confidence or fiducial limits illustrated in the case of
+  the binomial,''
+\newblock {\em Biometrika}, vol. 26, no. 4, pp. 404--413, 1934.
+
+\bibitem{efron1979bootstrap}
+Bradley Efron,
+\newblock ``Bootstrap methods: Another look at the jackknife,''
+\newblock {\em The Annals of Statistics}, vol. 7, no. 1, pp. 1--26, 1979.
+
+\end{thebibliography}

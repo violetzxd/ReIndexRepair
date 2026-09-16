@@ -1,0 +1,29 @@
+% Editable vector workflow; labels are 9 pt at native column size.
+\begin{tikzpicture}[
+  font=\fontsize{9}{10}\selectfont,
+  box/.style={draw=black!65,rounded corners=2pt,align=center,inner sep=3pt},
+  flow/.style={-{Latex[length=1.5mm]},line width=.5pt},
+  x=1cm,y=1cm]
+\node[box,text width=7.8cm,fill=black!5] (freeze) at (0,0)
+  {Freeze query, sources, pipeline fingerprint, and four-action grammar};
+\node[box,text width=2.0cm] (trace) at (-2.95,-1.4)
+  {$F_0$: trace mask\\Diagnostic answer};
+\node[box,text width=4.8cm,fill=black!5] (edit) at (1.25,-1.4)
+  {Edit source roots $D\!\to\!D_a$; invalidate lineage $\Gamma(a)$\\Re-chunk/re-embed separately in each branch};
+\node[box,text width=2.1cm] (exact) at (-.2,-2.8)
+  {$F_1$: exact view\\Reuse validated base};
+\node[box,text width=2.1cm] (rebuild) at (2.7,-2.8)
+  {$F_2$: fresh index\\Materialize all actions};
+\node[box,text width=4.8cm] (cert) at (1.25,-4.3)
+  {Check vectors, ranked IDs, prompt hashes, answers\\Mismatch $\Rightarrow$ reject (fail closed)};
+\node[box,text width=7.8cm,fill=black!5] (human) at (0,-5.6)
+  {Blinded human safety + correctness + completeness\\Offline minimum-token feasible edit; otherwise abstain};
+\draw[flow] (freeze.south) -- ++(0,-.2) -| (trace.north);
+\draw[flow] (freeze.south) -- ++(0,-.2) -| (edit.north);
+\draw[flow] (edit.south) -- ++(0,-.18) -| (exact.north);
+\draw[flow] (edit.south) -- ++(0,-.18) -| (rebuild.north);
+\draw[flow] (exact.south) -- ++(0,-.16) -| (cert.north);
+\draw[flow] (rebuild.south) -- ++(0,-.16) -| (cert.north);
+\draw[flow] (cert.south) -- ++(0,-.16) -| (human.north);
+\draw[flow] (trace.south) -- (human.north -| trace.south);
+\end{tikzpicture}

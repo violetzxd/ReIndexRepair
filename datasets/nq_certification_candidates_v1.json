@@ -1,0 +1,1953 @@
+{
+  "count": 120,
+  "exclusion": "canonical question overlap with all 100 development incidents",
+  "inputs": {
+    "corpus_sha256": "f7e3588dd416772c9830baf67e827d49678f8d5a6ccf6e101b9ce990cc7b208c",
+    "development_incidents_sha256": "b796b3315d02cab19536d7407b36b917799482a0fe1b7ae338e5b5e609f51702",
+    "qrels_sha256": "6df0cd2cbbe88504b64c68f21e946a759b62c4d864225720cec256f0196e2210",
+    "queries_sha256": "72f08f0cd333a47e393dac61cf1e56d4fb41eabf1d6ad5ca99f40250b0b491c8"
+  },
+  "paper_evidence": false,
+  "records": [
+    {
+      "certification_index": 0,
+      "query_id": "test1406",
+      "question": "who does the voice of nala in the lion king",
+      "relevant_documents": [
+        {
+          "_id": "doc50245",
+          "metadata": {},
+          "text": "Nala is a fictional lioness, a character who appears in the Disney Lion King franchise. Introduced in the animated film The Lion King in 1994, Nala subsequently appears as a less prominent character in the film's sequels The Lion King II: Simba's Pride (1998) and The Lion King 1½ (2004). In the original film, the adult Nala was voiced by American actress Moira Kelly. Young Nala's speaking voice is provided by actress Niketa Calame, while singers Laura Williams and Sally Dworsky provide the singing voices of young and adult Nala respectively.",
+          "title": "Nala (The Lion King)"
+        }
+      ],
+      "selection_score_hex": "0011156248192cbc0dc75513852a9942",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 1,
+      "query_id": "test1656",
+      "question": "what is a real world application of an atwood machine",
+      "relevant_documents": [
+        {
+          "_id": "doc58615",
+          "metadata": {},
+          "text": "An elevator with a counterbalance approximates an ideal Atwood machine and thereby relieves the driving motor from the load of holding the elevator cab â€” it has to overcome only weight difference and inertia of the two masses. The same principle is used for funicular railways with two connected railway cars on inclined tracks, and for the elevators on the Eiffel Tower which counterbalance each other. Ski lifts are another example, where the gondolas move on a closed (continuous) pulley system up and down the mountain. The ski lift is similar to the counter-weighted elevator, but with a constraining force provided by the cable in the vertical dimension thereby achieving work in both the horizontal and vertical dimensions. Boat lifts [3] are another type of counter-weighted elevator system approximating an Atwood machine.",
+          "title": "Atwood machine"
+        }
+      ],
+      "selection_score_hex": "002653ae49f39512505ba0daf696af92",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 2,
+      "query_id": "test1307",
+      "question": "who's flag is red white and green",
+      "relevant_documents": [
+        {
+          "_id": "doc46317",
+          "metadata": {},
+          "text": "The flag of Hungary (Hungarian: Magyarország zászlaja) is a horizontal tricolour of red, white and green. In this exact form, it has been the official flag of Hungary since May 23, 1957. The flag's form originates from national republican movements of the 18th and 19th centuries, while its colours are from the Middle Ages. The current Hungarian tricolour flag is the same as the republican movement flag of the United Kingdom (used since 1816).",
+          "title": "Flag of Hungary"
+        },
+        {
+          "_id": "doc46318",
+          "metadata": {},
+          "text": "The nation of Hungary originated from the national freedom movement from before 1848, which culminated in the Hungarian Revolution of 1848. The revolution was not only in opposition against the monarchy but also the Habsburg Empire, as well as to form an independent republic. Accordingly, the Hungarian flag features a tricolour element, which is based upon the French flag, as a reflection of the ideas of the French revolution; while red, white, and green are colours derived from the historical Hungarian coat of arms, which have essentially remained in the same form since the mid-15th century, with exception to some minor differences, and were marshalled from arms that first appeared in the late 12th and early 13th century as arms of the Árpáds, Hungary's founding dynasty. The stripes are horizontal rather than vertical to prevent confusion with the Italian flag, which had also been designed after the French flag. According to other data, the recent form of the Hungarian tricolour had been already used from 1608 at the coronation of Mathias II of Hungary.[citation needed]",
+          "title": "Flag of Hungary"
+        }
+      ],
+      "selection_score_hex": "002a70c521118dd214b9a980e7f8a09b",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 3,
+      "query_id": "test2978",
+      "question": "state the process that divides one nucleus into two genetically identical nuclei",
+      "relevant_documents": [
+        {
+          "_id": "doc102185",
+          "metadata": {},
+          "text": "The process of mitosis is divided into stages corresponding to the completion of one set of activities and the start of the next. These stages are prophase, prometaphase, metaphase, anaphase, and telophase. During mitosis, the chromosomes, which have already duplicated, condense and attach to spindle fibers that pull one copy of each chromosome to opposite sides of the cell.[2] The result is two genetically identical daughter nuclei. The rest of the cell may then continue to divide by cytokinesis to produce two daughter cells.[3] Producing three or more daughter cells instead of normal two is a mitotic error called tripolar mitosis or multipolar mitosis (direct cell triplication / multiplication).[4] Other errors during mitosis can induce apoptosis (programmed cell death) or cause mutations. Certain types of cancer can arise from such mutations.[5]",
+          "title": "Mitosis"
+        }
+      ],
+      "selection_score_hex": "002cd8a546576601ccd904565db639d9",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 4,
+      "query_id": "test1844",
+      "question": "cls bank deals with transactions arising out of",
+      "relevant_documents": [
+        {
+          "_id": "doc64897",
+          "metadata": {},
+          "text": "CLS (originally Continuous Linked Settlement) is a specialist US financial institution that provides settlement services to its members in the foreign exchange market (FX). Although the forex market is decentralised and has no central exchange or clearing facility, firms that chose to use CLS to settle their FX transactions can mitigate the settlement risk associated with their trades.[1]",
+          "title": "CLS Group"
+        }
+      ],
+      "selection_score_hex": "002cedcddb039488a3fe2542242de864",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 5,
+      "query_id": "test654",
+      "question": "the casualty projections for an invasion of the japanese home islands",
+      "relevant_documents": [
+        {
+          "_id": "doc23393",
+          "metadata": {},
+          "text": "In preparation for Operation Olympic, the invasion of southern Kyushu, various figures and organizations made casualty estimates based on the terrain, strength, and disposition of known Japanese forces. However, as reported Japanese strength in the Home Islands continued to climb and Japanese military performance increased, so too did the casualty estimates.[6] In April 1945, the Joint Chiefs of Staff formally adopted a planning paper giving a range of possible casualties based on experience in both Europe and the Pacific. Given a troop list of 766,700 men and a 90-day campaign, the US Sixth Army could be expected to suffer between 514,072 casualties (including 134,556 dead and missing) under the \"Pacific Experience\" (1.95 dead and missing and 7.45 total casualties/1,000 men/day) and 149,046 casualties (including 28,981 dead and missing) under the \"European Experience\" (0.42 dead and missing and 2.16 total casualties/1,000 men/day).[87] This assessment included neither casualties suffered after the 90-day mark (US planners envisioned switching to the tactical defensive by X+120[88]), nor personnel losses at sea from Japanese air attacks.[89] In order to sustain the campaign on Kyushu, planners estimated a replacement stream of 100,000 men per month would be necessary, a figure achievable even after the partial demobilization following the defeat of Germany.[6] As time went on, other US leaders made estimates of their own:",
+          "title": "Operation Downfall"
+        }
+      ],
+      "selection_score_hex": "005342b24c4ce28588d3775c8d0f5d8c",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 6,
+      "query_id": "test563",
+      "question": "why dry ether is used in woods reaction",
+      "relevant_documents": [
+        {
+          "_id": "doc20449",
+          "metadata": {},
+          "text": "The Wurtz reaction, named after Charles-Adolphe Wurtz, is a coupling reaction in organic chemistry, organometallic chemistry and recently inorganic main group polymers, whereby two alkyl halides are reacted with sodium metal in dry ether solution to form a higher alkane:",
+          "title": "Wurtz reaction"
+        }
+      ],
+      "selection_score_hex": "005ee31dfdf7a601d2024475113bbea7",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 7,
+      "query_id": "test57",
+      "question": "where was the capital of the habsburg empire located",
+      "relevant_documents": [
+        {
+          "_id": "doc1580",
+          "metadata": {},
+          "text": "The Habsburg Monarchy (German: Habsburgermonarchie) or Empire is an unofficial appellation among historians for the countries and provinces that were ruled by the junior Austrian branch of the House of Habsburg between 1521 and 1780 and then by the successor branch of Habsburg-Lorraine until 1918. The Monarchy was a composite state composed of territories within and outside the Holy Roman Empire, united only in the person of the monarch. The dynastic capital was Vienna, except from 1583 to 1611,[2] when it was moved to Prague. From 1804 to 1867 the Habsburg Monarchy was formally unified as the Austrian Empire, and from 1867 to 1918 as the Austro-Hungarian Empire.[3][4]",
+          "title": "Habsburg Monarchy"
+        }
+      ],
+      "selection_score_hex": "00783ea769b6c6c303c7739f5790eb07",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 8,
+      "query_id": "test2519",
+      "question": "when did sweet caroline start at red sox games",
+      "relevant_documents": [
+        {
+          "_id": "doc86800",
+          "metadata": {},
+          "text": "The song has been played at Fenway Park, home of Major League Baseball's Boston Red Sox, since at least 1997,[20] and in the middle of the eighth inning at every game since 2002.[21] On opening night of the 2010 season at Fenway Park, the song was performed by Diamond himself. \"Sweet Caroline\" was played at Penn State Nittany Lions football games at Beaver Stadium until August 2012, halting after the Penn State child sex abuse scandal.[22][23] Performances at Beaver Stadium resumed in September 2013, however.[24] The song is played at the start of the fourth quarter of Pittsburgh Panthers Football games at Heinz Field.[25] In response, West Virginia University students and fans will yell \"eat shit, Pitt\" during the refrain if heard played.[26] It is also an unofficial song of the University of North Carolina at Chapel Hill, being played at athletic events and pep rallies.",
+          "title": "Sweet Caroline"
+        }
+      ],
+      "selection_score_hex": "008f3649541fe932479bed69bf5c56f8",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 9,
+      "query_id": "test1216",
+      "question": "when was the problem of cfc's discovered",
+      "relevant_documents": [
+        {
+          "_id": "doc43381",
+          "metadata": {},
+          "text": "Since the late 1970s, the use of CFCs has been heavily regulated because of their destructive effects on the ozone layer. After the development of his electron capture detector, James Lovelock was the first to detect the widespread presence of CFCs in the air, finding a mole fraction of 60 ppt of CFC-11 over Ireland. In a self-funded research expedition ending in 1973, Lovelock went on to measure CFC-11 in both the Arctic and Antarctic, finding the presence of the gas in each of 50 air samples collected, and concluding that CFCs are not hazardous to the environment. The experiment did however provide the first useful data on the presence of CFCs in the atmosphere. The damage caused by CFCs was discovered by Sherry Rowland and Mario Molina who, after hearing a lecture on the subject of Lovelock's work, embarked on research resulting in the first publication suggesting the connection in 1974. It turns out that one of CFCs' most attractive features—their low reactivity— is key to their most destructive effects. CFCs' lack of reactivity gives them a lifespan that can exceed 100 years, giving them time to diffuse into the upper stratosphere.[9] Once in the stratosphere, the sun's ultraviolet radiation is strong enough to cause the homolytic cleavage of the C-Cl bond.",
+          "title": "Chlorofluorocarbon"
+        }
+      ],
+      "selection_score_hex": "00c91e22f97ae7b6a3146c7ca75ae37c",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 10,
+      "query_id": "test3304",
+      "question": "what the difference between high commissioner and ambassador",
+      "relevant_documents": [
+        {
+          "_id": "doc112888",
+          "metadata": {},
+          "text": "In the Commonwealth of Nations, a high commissioner is the senior diplomat (generally ranking as an ambassador) in charge of the diplomatic mission of one Commonwealth government to another. Instead of an embassy, the diplomatic mission is generally called a high commission.",
+          "title": "High commissioner (Commonwealth)"
+        },
+        {
+          "_id": "doc112906",
+          "metadata": {},
+          "text": "As sixteen Commonwealth members, known as the Commonwealth realms, share the same monarch as head of state (currently Her Majesty Queen Elizabeth II), diplomatic relations between these countries are traditionally at a governmental level.[8] In diplomatic usage, a high commissioner is considered equivalent in rank and role to an ambassador.",
+          "title": "High commissioner (Commonwealth)"
+        },
+        {
+          "_id": "doc112907",
+          "metadata": {},
+          "text": "A high commissioner from one Commonwealth realm to another carries a simple and often informal letter of introduction from one head of government (prime minister) to that of another, host country, while ambassadors carry formal letters of credence from their head of state addressed to the host country's head of state. The difference in accreditation is also reflected in the formal titles of envoys to Commonwealth and non-Commonwealth states: e.g., British high commissioners to the Commonwealth countries are formally titled \"The High Commissioner for Her Majesty's Government in the United Kingdom\", whereas British ambassadors to non-Commonwealth countries are known as \"Her Britannic Majesty's Ambassador\".",
+          "title": "High commissioner (Commonwealth)"
+        }
+      ],
+      "selection_score_hex": "00e078061f69a32b63d69e950d9c949f",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 11,
+      "query_id": "test1811",
+      "question": "rain sleet or snow that contains a high concentration of acids is called",
+      "relevant_documents": [
+        {
+          "_id": "doc63694",
+          "metadata": {},
+          "text": "\"Acid rain\" is a popular term referring to the deposition of a mixture from wet (rain, snow, sleet, fog, cloudwater, and dew) and dry (acidifying particles and gases) acidic components. Distilled water, once carbon dioxide is removed, has a neutral pH of 7. Liquids with a pH less than 7 are acidic, and those with a pH greater than 7 are alkaline. \"Clean\" or unpolluted rain has an acidic pH, but usually no lower than 5.7, because carbon dioxide and water in the air react together to form carbonic acid, a weak acid according to the following reaction:",
+          "title": "Acid rain"
+        }
+      ],
+      "selection_score_hex": "00e21653a1b0b8b7fff993c62b3fa2e5",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 12,
+      "query_id": "test827",
+      "question": "when does it's a wonderful life comes on",
+      "relevant_documents": [
+        {
+          "_id": "doc29811",
+          "metadata": {},
+          "text": "The film's elevation to the status of a beloved classic came decades after its initial release, when it became a television staple during Christmas season in the late 1970s. This came as a welcome surprise to Frank Capra and others involved with its production. \"It's the damnedest thing I've ever seen,\" Capra told The Wall Street Journal in 1984. \"The film has a life of its own now, and I can look at it like I had nothing to do with it. I'm like a parent whose kid grows up to be president. I'm proud... but it's the kid who did the work. I didn't even think of it as a Christmas story when I first ran across it. I just liked the idea.\"[61] In a 1946 interview, Capra described the film's theme as \"the individual's belief in himself\" and that he made it \"to combat a modern trend toward atheism\".[61]",
+          "title": "It's a Wonderful Life"
+        }
+      ],
+      "selection_score_hex": "00faa090237ea94d6e6b9d68a1c6a3e5",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 13,
+      "query_id": "test3228",
+      "question": "indonesia is the fourth largest country in the world",
+      "relevant_documents": [
+        {
+          "_id": "doc110477",
+          "metadata": {},
+          "text": "Indonesia (/ˌɪndəˈniːʒə/ ( listen) IN-də-NEE-zhə or /ˌɪndoʊˈniːziə/ IN-doh-NEE-zee-ə; Indonesian: [ɪndonesia]),[lacks stress] officially the Republic of Indonesia (Indonesian: Republik Indonesia [rɛpublik ɪndonesia]),[lacks stress] is a unitary sovereign state and transcontinental country located mainly in Southeast Asia, with some territories in Oceania. Situated between the Indian and Pacific oceans, it is the world's largest island country, with more than thirteen thousand islands.[12] At 1,904,569 square kilometres (735,358 square miles), Indonesia is the world's 14th largest country in terms of land area and the 7th largest in terms of combined sea and land area.[13] With over 261 million people, it is the world's 4th most populous country as well as the most populous Austronesian and Muslim-majority country. Java, the world's most populous island,[14] contains more than half of the country's population.",
+          "title": "Indonesia"
+        }
+      ],
+      "selection_score_hex": "010316397fcc377daa18f7e13508c75d",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 14,
+      "query_id": "test1375",
+      "question": "when does the call of the wild take place",
+      "relevant_documents": [
+        {
+          "_id": "doc48747",
+          "metadata": {},
+          "text": "The Call of the Wild is a short adventure novel by Jack London published in 1903 and set in Yukon, Canada during the 1890s Klondike Gold Rush, when strong sled dogs were in high demand. The central character of the novel is a dog named Buck. The story opens at a ranch in Santa Clara Valley, California, when Buck is stolen from his home and sold into service as a sled dog in Alaska. He becomes progressively feral in the harsh environment, where he is forced to fight to survive and dominate other dogs. By the end, he sheds the veneer of civilization, and relies on primordial instinct and learned experience to emerge as a leader in the wild.",
+          "title": "The Call of the Wild"
+        }
+      ],
+      "selection_score_hex": "01391aef0c3d67bbce4b37e84fcb19bd",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 15,
+      "query_id": "test2561",
+      "question": "is the movie taking chance a true story",
+      "relevant_documents": [
+        {
+          "_id": "doc87978",
+          "metadata": {},
+          "text": "Taking Chance is a 2009 American historical drama film based upon the experiences of Marine Colonel Michael Strobl (Kevin Bacon), who escorted the body of a fallen Marine, PFC Chance Phelps (posthumously promoted to LCpl), back to his hometown from the Iraq War.[1][2]",
+          "title": "Taking Chance"
+        }
+      ],
+      "selection_score_hex": "013c899cdc62801f4d6af560967bde58",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 16,
+      "query_id": "test2122",
+      "question": "sequel to a christmas story it runs in the family",
+      "relevant_documents": [
+        {
+          "_id": "doc73742",
+          "metadata": {},
+          "text": "My Summer Story, originally released in theaters as It Runs in the Family, is a 1994 film that follows the further adventures of the Parker family from A Christmas Story. Like the previous film, it is based on semi-autobiographical stories by Jean Shepherd, primarily from his book In God We Trust, All Others Pay Cash.",
+          "title": "My Summer Story"
+        }
+      ],
+      "selection_score_hex": "014965fcdc7498b3fadd29645a3fa86e",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 17,
+      "query_id": "test1981",
+      "question": "who dies in the lost city of z",
+      "relevant_documents": [
+        {
+          "_id": "doc69447",
+          "metadata": {},
+          "text": "Murray survives and, in front of the RGS trustees, accuses Fawcett of abandoning him in the jungle. Fawcett elects to resign from the society rather than apologize. World War I breaks out in Europe, and Fawcett goes to France to fight. Manley dies in the trenches at the Battle of the Somme, and Fawcett is temporarily blinded in a chlorine gas attack. Jack, Fawcett's eldest son—who had long accused Fawcett of abandoning the family—reconciles with his father as he recovers.",
+          "title": "The Lost City of Z (film)"
+        }
+      ],
+      "selection_score_hex": "014f5e48f7ced5a515b5550c913191d2",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 18,
+      "query_id": "test280",
+      "question": "the cold dry winds that blow over northern india in winter are called",
+      "relevant_documents": [
+        {
+          "_id": "doc10497",
+          "metadata": {},
+          "text": "Around September, with the sun fast retreating south, the northern land mass of the Indian subcontinent begins to cool off rapidly. With this air pressure begins to build over northern India, the Indian Ocean and its surrounding atmosphere still holds its heat. This causes the cold wind to sweep down from the Himalayas and Indo-Gangetic Plain towards the vast spans of the Indian Ocean south of the Deccan peninsula. This is known as the Northeast Monsoon or Retreating Monsoon.",
+          "title": "Climate of Asia"
+        }
+      ],
+      "selection_score_hex": "01504fa5de89a6c63bf6040321cee448",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 19,
+      "query_id": "test2421",
+      "question": "what do the colors and symbols on the mexican flag represent",
+      "relevant_documents": [
+        {
+          "_id": "doc83620",
+          "metadata": {},
+          "text": "Red, white, and green are the colors of the national liberation army in Mexico. The central emblem is the Mexican coat of arms, based on the Aztec symbol for Tenochtitlan (now Mexico City), the center of the Aztec empire. It recalls the legend of an eagle sitting on a cactus while devouring a serpent that signaled to the Aztecs where to found their city, Tenochtitlan.[1] A ribbon in the national colors is at the bottom of the coat of arms. Throughout history, the flag has changed several times, as the design of the coat of arms and the length-width ratios of the flag have been modified. However, the coat of arms has had the same features throughout: an eagle, holding a serpent in its talon, is perched on top of a prickly pear cactus; the cactus is situated on a rock that rises above a lake. The coat of arms is derived from an Aztec legend that their gods told them to build a city where they spot an eagle on a nopal eating a serpent, which is now Mexico City.",
+          "title": "Flag of Mexico"
+        }
+      ],
+      "selection_score_hex": "016c509ace8e1da2bf022653c0cd46e8",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 20,
+      "query_id": "test428",
+      "question": "i will die to defend your right to say it",
+      "relevant_documents": [
+        {
+          "_id": "doc15890",
+          "metadata": {},
+          "text": "In The Friends of Voltaire, Hall wrote the phrase: \"I disapprove of what you say, but I will defend to the death your right to say it\"[4] (which is often misattributed to Voltaire himself) as an illustration of Voltaire's beliefs.[5][6][7] Hall's quotation is often cited to describe the principle of freedom of speech.",
+          "title": "Evelyn Beatrice Hall"
+        }
+      ],
+      "selection_score_hex": "01839e9b0899af4632af920dff0be570",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 21,
+      "query_id": "test1179",
+      "question": "what is the theme of fablehaven book 1",
+      "relevant_documents": [
+        {
+          "_id": "doc41790",
+          "metadata": {},
+          "text": "The story begins with Kendra and Seth visiting their grandparents in Connecticut while their parents take a 17-day cruise. At first the siblings entertain themselves with an attic full of interesting books and toys, and a pond-like swimming pool surrounded by hummingbirds, brightly colored-butterflies and exotic dragonflies. But soon their attentions wander to the forbidden forest that surrounds their grandparent's house. When Kendra discovers a book entitled Journal of Secrets and follows the directions to \"Drink the milk\" a whole new hidden and amazing world is revealed to the siblings at Fablehaven. Kendra and Seth find out quickly how dangerous this new magical environment is when rules are broken, thrusting them into the middle of a fight for their lives.",
+          "title": "Fablehaven"
+        }
+      ],
+      "selection_score_hex": "0194c317b7bd76d9bc6ca2cbbbc2b2ff",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 22,
+      "query_id": "test1790",
+      "question": "mention any two function of the speaker of the lok sabha",
+      "relevant_documents": [
+        {
+          "_id": "doc63035",
+          "metadata": {},
+          "text": "The Speaker of the Lok Sabha conducts the business in house; and decides whether a bill is a money bill or not. They maintain discipline and decorum in the house and can punish a member for their unruly behavior by suspending them. They also permit the moving of various kinds of motions and resolutions such as a motion of no confidence, motion of adjournment, motion of censure and calling attention notice as per the rules. The Speaker decides on the agenda to be taken up for discussion during the meeting. The date of election of the speaker is fixed by the President. Further, all comments and speeches made by members of the House are addressed to the speaker. The speaker also presides over the joint sitting of both Houses of Parliament. The counterpart of the Speaker in the Rajya Sabha is the Chairman, who is the Vice President of India. In the warrant of precedence, the speaker of Lok Sabha comes next only to The Deputy Prime Minister of India. Speaker has the sixth rank in the political executive of India",
+          "title": "Speaker of the Lok Sabha"
+        }
+      ],
+      "selection_score_hex": "019e8f61a64990942dc9a845fc602f0e",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 23,
+      "query_id": "test2962",
+      "question": "the fertile crescent is located between what two bodies of water",
+      "relevant_documents": [
+        {
+          "_id": "doc101286",
+          "metadata": {},
+          "text": "The Fertile Crescent includes Mesopotamia, the land in and around the Tigris and Euphrates rivers; and the Levant, the eastern coast of the Mediterranean Sea. The modern-day countries with significant territory within the Fertile Crescent are Iraq, Syria, Lebanon, Cyprus, Jordan, Israel, Palestine, Egypt, as well as the southeastern fringe of Turkey and the western fringes of Iran.[1][2]",
+          "title": "Fertile Crescent"
+        }
+      ],
+      "selection_score_hex": "01a978cb2cb8d38c1864ac581f085246",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 24,
+      "query_id": "test2988",
+      "question": "the boiling point of water is 100 degrees celsius express this in si units",
+      "relevant_documents": [
+        {
+          "_id": "doc102453",
+          "metadata": {},
+          "text": "The Celsius scale was based on 0 °C for the freezing point of water and 100 °C for the boiling point of water at 1 atm pressure following a change introduced in 1743 by Jean-Pierre Christin to reverse the Celsius thermometer scale (from water boiling at 0 degrees and ice melting at 100 degrees). This scale is widely taught in schools today. By international agreement the unit \"degree Celsius\" and the Celsius scale are currently defined by two different temperatures: absolute zero, and the triple point of Vienna Standard Mean Ocean Water (VSMOW), a specially purified water. This definition also precisely relates the Celsius scale to the Kelvin scale, which defines the SI base unit of thermodynamic temperature with symbol K. Absolute zero, the lowest temperature possible, is defined as being exactly 0 K and −273.15 °C. The temperature of the triple point of water is defined as exactly 273.16 K (0.01 °C; 32.02 °F).[3]",
+          "title": "Celsius"
+        }
+      ],
+      "selection_score_hex": "01af62daaa26bda5b0e23d952220e9eb",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 25,
+      "query_id": "test290",
+      "question": "who does the voice overs for the arbys commercials",
+      "relevant_documents": [
+        {
+          "_id": "doc10929",
+          "metadata": {},
+          "text": "Rhames's deep voice is the center of many recent (2015-present) Arby's commercials, with the catchline 'Arby's, we have the meats!'",
+          "title": "Ving Rhames"
+        }
+      ],
+      "selection_score_hex": "01d4d23fed07ccb91a313fd064b3c57c",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 26,
+      "query_id": "test2609",
+      "question": "what song is played while raising the american flag",
+      "relevant_documents": [
+        {
+          "_id": "doc89403",
+          "metadata": {},
+          "text": "In modern times, the U.S. military plays (or sounds) \"Reveille\" in the morning, generally near sunrise, though its exact time varies from base to base. On U.S. Army posts and Air Force bases, \"Reveille\" is played by itself or followed by the bugle call \"To the Colors\" at which time the national flag is raised and all U.S. military personnel outdoors are required to come to attention and present a salute in uniform, either to the flag or in the direction of the music if the flag is not visible. While in formation, soldiers are brought to the position of parade rest while \"Reveille\" plays then called to attention and present arms as the national flag is raised. On board U.S. Navy, Marine Corps, and Coast Guard facilities, the flag is generally raised at 0800 (8 am) while \"The Star Spangled Banner\" or the bugle call \"To the Colors\" is played. On some U.S. military bases, \"Reveille\" is accompanied by a cannon shot.",
+          "title": "Reveille"
+        }
+      ],
+      "selection_score_hex": "01e84d192214dc84629aedc6da1fdc57",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 27,
+      "query_id": "test1368",
+      "question": "who is the cast of the new tomb raider movie",
+      "relevant_documents": [
+        {
+          "_id": "doc48352",
+          "metadata": {},
+          "text": "Tomb Raider is a 2018 action-adventure film directed by Roar Uthaug, with a screenplay by Geneva Robertson-Dworet and Alastair Siddons, from a story by Evan Daugherty and Robertson-Dworet. It is based on the 2013 video game of the same name, with some elements of its sequel by Crystal Dynamics, and is a reboot of the Tomb Raider film series. The film stars Alicia Vikander as Lara Croft, who embarks on a perilous journey to her father's last-known destination, hoping to solve the mystery of his disappearance. Dominic West, Walton Goggins, Daniel Wu, and Kristin Scott Thomas appear in supporting roles.",
+          "title": "Tomb Raider (film)"
+        }
+      ],
+      "selection_score_hex": "01eed443ad48b9ee8393e723ec8f055c",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 28,
+      "query_id": "test3181",
+      "question": "why are there 64 teams in the ncaa tournament",
+      "relevant_documents": [
+        {
+          "_id": "doc108436",
+          "metadata": {},
+          "text": "The tournament teams include champions from 32 Division I conferences (which receive automatic bids), and 36 teams which are awarded at-large berths. These \"at-large\" teams are chosen by an NCAA selection committee, then announced in a nationally televised event on the Sunday preceding the \"First Four\" play-in games, currently held in Dayton, Ohio, and dubbed Selection Sunday. The 68 teams are divided into four regions and organized into a single-elimination \"bracket\", which pre-determines, when a team wins a game, which team it will face next. Each team is \"seeded\", or ranked, within its region from 1 to 16. After the First Four, the tournament occurs during the course of three weekends, at pre-selected neutral sites across the United States. Teams, seeded by rank, proceed through a single-game elimination bracket beginning with a \"first four\" consisting of 8 low-seeded teams playing in 4 games for a position in the first round the Tuesday and Wednesday before the first round begins, a first round consisting of 64 teams playing in 32 games over the course of a week, the \"Sweet Sixteen\" and \"Elite Eight\" rounds the next week and weekend, respectively, and – for the last weekend of the tournament – the \"Final Four\" round. The Final Four is usually played during the first weekend of April. These four teams, one from each region (East, South, Midwest, and West), compete in a preselected location for the national championship.",
+          "title": "NCAA Division I Men's Basketball Tournament"
+        }
+      ],
+      "selection_score_hex": "02047eb0532f5cdfd040e2d1d28494fd",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 29,
+      "query_id": "test675",
+      "question": "brian cox wonders of the universe episode 1",
+      "relevant_documents": [
+        {
+          "_id": "doc24175",
+          "metadata": {},
+          "text": "In the first episode, Cox considers the fundamental nature of time while pondering the ruins at Chankillo in Peru. He explores the familiarly brief cycles of time that define the lives of humans on Earth (such as days, months, and years), and compares them to the cycles of time on a cosmically universal scale (such as our solar system's 250 million year circuit around the Milky Way). At the Perito Moreno Glacier Cox introduces the Arrow of Time and the idea of irreversible change using GRB 090423 as an remnant of the early Stelliferous Era. At Kolmanskop he further discusses the thermodynamic arrow of time citing the inevitable increase of entropy, and stellar evolution. He continues by looking at Proxima Centauri, a slow burning red dwarf, and concludes the show over the Skeleton Coast of the Namib Desert, using the wreck of the Eduard Bohlen to illustrate the inevitable heat death of the universe.",
+          "title": "Wonders of the Universe"
+        }
+      ],
+      "selection_score_hex": "0206b79256c2b03dd18b4bd295dc9555",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 30,
+      "query_id": "test735",
+      "question": "who scored fastest 10000 runs in test cricket",
+      "relevant_documents": [
+        {
+          "_id": "doc26176",
+          "metadata": {},
+          "text": "Brian Lara took the least number of innings (195) to reach the 10,000 run mark, later equalled by Sachin Tendulkar and Kumar Sangakkara, while Australia's Steve Waugh took 244 innings to achieve the feat.[2] Alastair Cook is the fastest in terms of time span, taking 10 years and 87 days.[2] The time taken by Shivnarine Chanderpaul (18 years and 37 days) is the slowest among all.[2] As of MayÂ 2017[update], Tendulkar leads the list with 15,921 runs followed by Ricky Ponting of Australia with 13,378.[6]",
+          "title": "List of players who have scored 10,000 or more runs in Test cricket"
+        }
+      ],
+      "selection_score_hex": "021d5e38822944c763cd0179cee62ca4",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 31,
+      "query_id": "test970",
+      "question": "what is the result of electrical stimulation to the reticular formation",
+      "relevant_documents": [
+        {
+          "_id": "doc34181",
+          "metadata": {},
+          "text": "The main function of the ARAS is to modify and potentiate thalamic and cortical function such that electroencephalogram (EEG) desynchronization ensues.[24][25] There are distinct differences in the brain’s electrical activity during periods of wakefulness and sleep: Low voltage fast burst brain waves (EEG desynchronization) are associated with wakefulness and REM sleep (which are electrophysiologically similar); high voltage slow waves are found during non-REM sleep. Generally speaking, when thalamic relay neurons are in burst mode the EEG is synchronized and when they are in tonic mode it is desynchronized.[25] Stimulation of the ARAS produces EEG desynchronization by suppressing slow cortical waves (0.3–1 Hz), delta waves (1–4 Hz), and spindle wave oscillations (11–14 Hz) and by promoting gamma band (20 – 40 Hz) oscillations.[16]",
+          "title": "Reticular formation"
+        },
+        {
+          "_id": "doc34196",
+          "metadata": {},
+          "text": "Finally, Magoun recorded potentials within the medial portion of the brain stem and discovered that auditory stimuli directly fired portions of the reticular activating system. Furthermore, single-shock stimulation of the sciatic nerve also activated the medial reticular formation, hypothalamus, and thalamus. Excitation of the ARAS did not depend on further signal propagation through the cerebellar circuits, as the same results were obtained following decerebellation and decortication. The researchers proposed that a column of cells surrounding the midbrain reticular formation received input from all the ascending tracts of the brain stem and relayed these afferents to the cortex and therefore regulated wakefulness.[42][26]",
+          "title": "Reticular formation"
+        }
+      ],
+      "selection_score_hex": "0246a7a9f0dae8875956e51f3b6415fd",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 32,
+      "query_id": "test1577",
+      "question": "when does the little couples new season start",
+      "relevant_documents": [
+        {
+          "_id": "doc56262",
+          "metadata": {},
+          "text": "The new season of The Little Couple premiered on September 19, 2017.",
+          "title": "The Little Couple"
+        }
+      ],
+      "selection_score_hex": "026e2b144f731e74a4976802eaabf073",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 33,
+      "query_id": "test322",
+      "question": "is kermit the frog part of sesame street",
+      "relevant_documents": [
+        {
+          "_id": "doc12267",
+          "metadata": {},
+          "text": "Kermit the Frog is a Muppet character and Jim Henson's most well-known creation. Introduced in 1955, Kermit serves as the straight man protagonist of numerous Muppet productions, most notably Sesame Street and The Muppet Show, as well as in other television series, films, specials, and public service announcements through the years. Henson originally performed Kermit until his death in 1990; Steve Whitmire performed Kermit from that time up until his dismissal from the role in 2016. Kermit is currently performed by Matt Vogel.[2] He was also voiced by Frank Welker in Muppet Babies and occasionally in other animation projects.",
+          "title": "Kermit the Frog"
+        }
+      ],
+      "selection_score_hex": "027ae4b4dfc1c1f801b6332ebfa3068a",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 34,
+      "query_id": "test2620",
+      "question": "who were the first labor unions formed by",
+      "relevant_documents": [
+        {
+          "_id": "doc89773",
+          "metadata": {},
+          "text": "Unions began forming in the mid-19th century in response to the social and economic impact of the industrial revolution. National labor unions began to form in the post-Civil War Era. The Knights of Labor emerged as a major force in the late 1880s, but it collapsed because of poor organization, lack of effective leadership, disagreement over goals, and strong opposition from employers and government forces.",
+          "title": "Labor unions in the United States"
+        }
+      ],
+      "selection_score_hex": "02811ca6f428a0c694c513d0a912a075",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 35,
+      "query_id": "test3199",
+      "question": "who is the prime minister of india full name",
+      "relevant_documents": [
+        {
+          "_id": "doc109336",
+          "metadata": {},
+          "text": "The incumbent Prime Minister of India is Narendra Modi who has headed the BJP-led NDA government since 26 May 2014 which is India's first non-Congress single party majority government.[4]",
+          "title": "List of Prime Ministers of India"
+        }
+      ],
+      "selection_score_hex": "0285a60a6073cb75726091193e6afb46",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 36,
+      "query_id": "test152",
+      "question": "where does sex and the city take place",
+      "relevant_documents": [
+        {
+          "_id": "doc5548",
+          "metadata": {},
+          "text": "Set and filmed in New York City and based on the 1997 book of the same name by Candace Bushnell, the show follows the lives of a group of four women—three in their mid-thirties and one in her forties—who, despite their different natures and ever-changing sex lives, remain inseparable and confide in each other. Starring Sarah Jessica Parker (as Carrie Bradshaw), Kim Cattrall (as Samantha Jones), Kristin Davis (as Charlotte York), and Cynthia Nixon (as Miranda Hobbes), the quirky series had multiple continuing storylines that tackled relevant and modern social issues such as sexuality, safe sex, promiscuity, and femininity, while exploring the difference between friendships and romantic relationships. The deliberate omission of the better part of the early lives of the four women was the writers' way of exploring social life – from sex to relationships – through each of their four very different, individual perspectives.",
+          "title": "Sex and the City"
+        }
+      ],
+      "selection_score_hex": "02902a0a3adf2bbdd844883d08ac98c6",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 37,
+      "query_id": "test2935",
+      "question": "how many jimmy johns are there in the us",
+      "relevant_documents": [
+        {
+          "_id": "doc100338",
+          "metadata": {},
+          "text": "Jimmy John's Franchise, LLC is a franchised sandwich restaurant chain, specializing in delivery. Founded by Jimmy John Liautaud in 1983 and headquartered in Champaign, Illinois, in 30 years, the company has grown to more than 2,500 locations[2] in all states except Alaska, Hawaii, Connecticut, Maine, New Hampshire, and Vermont.[3] Jimmy John's has opened approximately 200 locations per year over the past three years.[4] As of 2014[update], 98% of the locations are franchise-owned.[5]",
+          "title": "Jimmy John's"
+        },
+        {
+          "_id": "doc100345",
+          "metadata": {},
+          "text": "As of March 2017, Jimmy John's has almost 3,000 stores with plans for expansion up to 5,000 and beyond.[13]",
+          "title": "Jimmy John's"
+        }
+      ],
+      "selection_score_hex": "02a6413036bb7b93efb491e2f60bb22b",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 38,
+      "query_id": "test2955",
+      "question": "where is the boy who played charlie in willy wonka",
+      "relevant_documents": [
+        {
+          "_id": "doc101103",
+          "metadata": {},
+          "text": "Peter Gardner[4] Ostrum (/ˈoʊstrəm/;[5] born November 1957)[4] is an American veterinarian and former child actor whose only film role was as Charlie Bucket in the 1971 motion picture Willy Wonka & the Chocolate Factory.",
+          "title": "Peter Ostrum"
+        },
+        {
+          "_id": "doc101105",
+          "metadata": {},
+          "text": "Ostrum became interested in horses when he returned from shooting Willy Wonka, and was particularly influenced by the veterinarian that tended to them. Receiving his Doctorate of Veterinary Medicine from Cornell University College of Veterinary Medicine in 1984, as of 2005[update] Ostrum practiced and lived in Lowville, New York[1] with his wife Loretta (nÃ©e Lepkowski), and two children: his son, Leif, and daughter, Helenka.[5]",
+          "title": "Peter Ostrum"
+        },
+        {
+          "_id": "doc101116",
+          "metadata": {},
+          "text": "As of FebruaryÂ 2018[update], Ostrum worked out of the Countryside Veterinary Clinic in Lowville, New York, where he works mainly with horses and cows.[13][14] He has taken part in the video series Veterinarians on Call, funded by Pfizer, highlighting the work of large animal veterinarians.[13]",
+          "title": "Peter Ostrum"
+        }
+      ],
+      "selection_score_hex": "02be0603efab1b215ef4f466b56001b2",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 39,
+      "query_id": "test683",
+      "question": "what's the difference between msnbc and nbc",
+      "relevant_documents": [
+        {
+          "_id": "doc24337",
+          "metadata": {},
+          "text": "MSNBC is an American news cable and satellite television network that provides news coverage and political commentary from NBC News on current events. MSNBC is owned by the NBCUniversal News Group, a unit of the NBCUniversal Television Group division of NBCUniversal (all of which are ultimately owned by Comcast). MSNBC and its website were founded in 1996 under a partnership between Microsoft and General Electric's NBC unit, hence the network's naming.[3] Although they had the same name, msnbc.com and MSNBC maintained separate corporate structures and news operations. msnbc.com was headquartered on the Microsoft campus in Redmond, Washington while MSNBC operated out of NBC's headquarters in New York City. Microsoft divested its stakes in the MSNBC channel in 2005 and in msnbc.com in July 2012. The general news site was rebranded as NBCNews.com, and a new msnbc.com was created as the online home of the cable channel.[4]",
+          "title": "MSNBC"
+        }
+      ],
+      "selection_score_hex": "02cafe61f38fd690760b6ce491db0fa7",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 40,
+      "query_id": "test2089",
+      "question": "where is the limbic system located and what is its function",
+      "relevant_documents": [
+        {
+          "_id": "doc72591",
+          "metadata": {},
+          "text": "The limbic system is a set of brain structures located on both sides of the thalamus, immediately beneath the cerebrum.[1] It has also been referred to as the paleomammalian cortex. It is not a separate system but a collection of structures from the telencephalon, diencephalon, and mesencephalon.[2] It includes the olfactory bulbs, hippocampus, hypothalamus, amygdala, anterior thalamic nuclei, fornix, columns of fornix, mammillary body, septum pellucidum, habenular commissure, cingulate gyrus, parahippocampal gyrus, entorhinal cortex, and limbic midbrain areas.[3]",
+          "title": "Limbic system"
+        }
+      ],
+      "selection_score_hex": "02f37431c43d9dee0b18b542d9e94445",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 41,
+      "query_id": "test3217",
+      "question": "when does the sword art online movie take place",
+      "relevant_documents": [
+        {
+          "_id": "doc110107",
+          "metadata": {},
+          "text": "In the year 2026, the Augma is released to the public as an alternative system to the AmuSphere, due to its function to simulate reality while the player is conscious rather than using FullDive. The most prominent combat-based game is Ordinal Scale, in which a player's abilities are ranked by ordinal numbers.",
+          "title": "Sword Art Online The Movie: Ordinal Scale"
+        }
+      ],
+      "selection_score_hex": "02f386513c50be3a72662fc7b9561143",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 42,
+      "query_id": "test1141",
+      "question": "when was the last time ny rangers won stanley cup",
+      "relevant_documents": [
+        {
+          "_id": "doc40456",
+          "metadata": {},
+          "text": "The New York Rangers are a professional ice hockey team based in New York City. They are members of the Metropolitan Division of the Eastern Conference of the National Hockey League (NHL). The team plays its home games at Madison Square Garden, located in the borough of Manhattan. The Rangers are one of three NHL franchises in the New York metropolitan area, along with the New Jersey Devils and New York Islanders. The club is also one of the oldest teams in the NHL, having joined in 1926 as an expansion franchise. They are part of the group of teams referred to as the Original Six, along with the Boston Bruins, Chicago Blackhawks, Detroit Red Wings, Montreal Canadiens and Toronto Maple Leafs. The Rangers were the first NHL franchise in the United States to win the Stanley Cup,[3] which they have done four times, most recently in 1993â€“94.[4]",
+          "title": "New York Rangers"
+        }
+      ],
+      "selection_score_hex": "02f3fe10671a2ee760afb7e7a8f54ab2",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 43,
+      "query_id": "test351",
+      "question": "how did bayonet come into the english language",
+      "relevant_documents": [
+        {
+          "_id": "doc13361",
+          "metadata": {},
+          "text": "The term bayonette dates back to the end of the 16th century, but it is not clear whether bayonets at the time were knives that could be fitted to the ends of firearms, or simply a type of knife. For example, Cotgrave's 1611 Dictionarie describes the Bayonet as \"a kind of small flat pocket dagger, furnished with knives; or a great knife to hang at the girdle\". Likewise, Pierre Borel wrote in 1655 that a kind of long-knife called a bayonette was made in Bayonne but does not give any further description.[2]",
+          "title": "Bayonet"
+        }
+      ],
+      "selection_score_hex": "02f4d163bd1e8504eabdfd6227cff862",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 44,
+      "query_id": "test866",
+      "question": "where does coco fit in the pixar theory",
+      "relevant_documents": [
+        {
+          "_id": "doc31026",
+          "metadata": {},
+          "text": "In Coco, we learn that Lightning McQueen had a human driver, named Bobby, at that time due to an easter egg of Lightning McQueen shoes worn by Bobby. Also, the town from Coco is seen briefly on a computer screen in Cars 3. In Coco, we see that if someone is forgotten they fade. Just like Bing Bong's death in Inside Out because there were no memory orbs left of him. The deaths of the characters even looked similar. This happens in Avengers as well, where if they are forgotten they fade out.",
+          "title": "Pixar universe theory"
+        }
+      ],
+      "selection_score_hex": "02fa2dc7eb2166ee00e07eec106aa4d2",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 45,
+      "query_id": "test3404",
+      "question": "who is the man in listen to what the man said",
+      "relevant_documents": [
+        {
+          "_id": "doc115973",
+          "metadata": {},
+          "text": "The song is an optimistic love song.[13] Even though love may be blind or may cause separated lovers to suffer, the singer believes that love will prevail.[13] This is in accordance with what “the man” said.[13] “The man” is not explicitly identified, but might be God.[13] Author Vincent Benitez believes that, \"McCartney is advising everyone to stick with the basics of life, which for him means focusing on love.\"[13] The song is in the key of G major.",
+          "title": "Listen to What the Man Said"
+        }
+      ],
+      "selection_score_hex": "02fdd1ffa41f7404e91ef4aec6dabb54",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 46,
+      "query_id": "test2570",
+      "question": "what was the result of the first wave of feminism",
+      "relevant_documents": [
+        {
+          "_id": "doc88185",
+          "metadata": {},
+          "text": "Early Feminism was directly correlated with the abolitionist movements and as a result many famous feminists and activists began to have their voices heard. Some of these early activists include, Sojourner Truth, Dr. Elizabeth Blackwell, Jane Addams, and Dorothy Day.[5] The first wave of feminism was primarily led by white women in the middle class, and it was not until the second wave of feminism that women of color began developing a voice.[6] The term Feminism was created like a political illustrated ideology at that period. Feminism emerged by the speech about the reform and correction of democracy based on equalitarian conditions. With Wollstonecraft's work, the illustrated feminist polemic was displayed, and as a result, suffragist movements were stood up.",
+          "title": "First-wave feminism"
+        }
+      ],
+      "selection_score_hex": "0312053323c992350e783626c38f2cd4",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 47,
+      "query_id": "test2719",
+      "question": "who sang what are we doing in love",
+      "relevant_documents": [
+        {
+          "_id": "doc93272",
+          "metadata": {},
+          "text": "\"What Are We Doin' in Love\" is a song written by Randy Goodrum and recorded by American country music artist Dottie West with the uncredited vocals of Kenny Rogers. It was released in March 1981 as the second single from the album Wild West. \"What Are We Doin' in Love\" was the duo's third and final number one on the country chart.[1]",
+          "title": "What Are We Doin' in Love"
+        }
+      ],
+      "selection_score_hex": "033190e9ec8a468d64454062a908c0eb",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 48,
+      "query_id": "test3388",
+      "question": "is there a book of james in the catholic bible",
+      "relevant_documents": [
+        {
+          "_id": "doc115560",
+          "metadata": {},
+          "text": "The Epistle of James (Ancient Greek: Ἰάκωβος, translit. Iakōbos), the Book of James, or simply James, is one of the twenty-one epistles (didactic letters) in the New Testament.",
+          "title": "Epistle of James"
+        },
+        {
+          "_id": "doc115578",
+          "metadata": {},
+          "text": "Some view the epistle as having no overarching outline: \"James may have simply grouped together small 'thematic essays' without having more linear, Greco-Roman structures in mind.\"[21] That view is generally supported by those who believe that the epistle may not be a true piece of correspondence between specific parties but an example of wisdom literature, formulated as a letter for circulation. The Catholic Encyclopedia says, \"the subjects treated of in the Epistle are many and various; moreover, St. James not infrequently, whilst elucidating a certain point, passes abruptly to another, and presently resumes once more his former argument.\"[3]",
+          "title": "Epistle of James"
+        }
+      ],
+      "selection_score_hex": "036ec9fcc7f7f44063e4f941743deba4",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 49,
+      "query_id": "test1218",
+      "question": "who won the ncaa basketball championship in 1994",
+      "relevant_documents": [
+        {
+          "_id": "doc43447",
+          "metadata": {},
+          "text": "In the national championship game, Arkansas defeated Duke by a score of 76â€“72 and won their first ever national championship.",
+          "title": "1994 NCAA Division I Men's Basketball Tournament"
+        }
+      ],
+      "selection_score_hex": "03873788d1ff10f4c29b89401d5b64b4",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 50,
+      "query_id": "test1524",
+      "question": "where does the story the great gatsby take place",
+      "relevant_documents": [
+        {
+          "_id": "doc54517",
+          "metadata": {},
+          "text": "The Great Gatsby is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional town of West Egg on prosperous Long Island in the summer of 1922. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession for the beautiful former debutante Daisy Buchanan. Considered to be Fitzgerald's magnum opus, The Great Gatsby explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Jazz Age or the Roaring Twenties that has been described as a cautionary tale regarding the American Dream.[1][2]",
+          "title": "The Great Gatsby"
+        },
+        {
+          "_id": "doc54520",
+          "metadata": {},
+          "text": "Set on the prosperous Long Island of 1922, The Great Gatsby provides a critical social history of America during the Roaring Twenties within its fictional narrative. That era, known for unprecedented economic prosperity, the evolution of jazz music flapper culture, new technologies in communication (motion pictures, broadcast radio, recorded music) forging a genuine mass culture; and bootlegging, along with other criminal activity, is plausibly depicted in Fitzgerald's novel. Fitzgerald uses many of these societal developments of the 1920s that were to build Gatsby's stories from many of the simple details like automobiles to broader themes like Fitzgerald's discreet allusions to the organized crime culture which was the source of Gatsby's fortune.[5] Fitzgerald depicts the garish society of the Roaring Twenties by placing the book's plotline within the historical context of the era.[6]",
+          "title": "The Great Gatsby"
+        }
+      ],
+      "selection_score_hex": "03978b6c31905710e5ef1c3d17d89390",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 51,
+      "query_id": "test140",
+      "question": "do you cut cards to the left or right",
+      "relevant_documents": [
+        {
+          "_id": "doc5204",
+          "metadata": {},
+          "text": "A common procedure is that after the cards have been shuffled, the dealer sets the cards face-down on the table near the player designated to make the cut, typically the player to the dealer's right. That player initiates a cut of the deck by taking a contiguous range of cards off the top of the deck and placing it face-down on the table closer to the dealer; the dealer completes the cut by taking the original bottom portion of the deck and placing it on top of the just-moved cards.[1] Once the cut is complete, the dealer picks up the deck, straightens or \"squares\" it, and deals the cards.",
+          "title": "Cut (cards)"
+        }
+      ],
+      "selection_score_hex": "03b966d792554484748881570b6f978c",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 52,
+      "query_id": "test2957",
+      "question": "who plays in the new mary poppins movie",
+      "relevant_documents": [
+        {
+          "_id": "doc101166",
+          "metadata": {},
+          "text": "Mary Poppins Returns is an upcoming American musical fantasy film directed by Rob Marshall, with a screenplay by David Magee and from a story by Magee, Marshall, and John DeLuca. A sequel to the 1964 film Mary Poppins, the film stars Emily Blunt as Mary Poppins with Lin-Manuel Miranda, Ben Whishaw, Emily Mortimer, Pixie Davies, Joel Dawson, Nathanael Saleh, Julie Walters, Colin Firth, and Meryl Streep in supporting roles. Set in 1930s London, 25 years after the events of the 1964 film, it sees Mary Poppins, the former nanny of Jane and Michael Banks, re-visiting them after a family tragedy.",
+          "title": "Mary Poppins Returns"
+        }
+      ],
+      "selection_score_hex": "03cc9cbba04c10d0254d667483a6e6ab",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 53,
+      "query_id": "test1006",
+      "question": "when does the first nba basketball game start",
+      "relevant_documents": [
+        {
+          "_id": "doc35474",
+          "metadata": {},
+          "text": "The 2017â€“18 NBA season is the 72nd season of the National Basketball Association (NBA). The regular season began on October 17, 2017, earlier than previous seasons to reduce the number of \"back-to-back\" games teams are scheduled to play,[1] with the 2017 runners-up Cleveland Cavaliers hosted a game against the Boston Celtics at Quicken Loans Arena in Cleveland, Ohio.[2] Christmas games will be played on December 25. The 2018 NBA All-Star Game will be played on February 18, 2018, at the Staples Center in Los Angeles, California. The regular season will end on April 11, 2018 and the playoffs will begin on April 14, 2018.",
+          "title": "2017–18 NBA season"
+        },
+        {
+          "_id": "doc35479",
+          "metadata": {},
+          "text": "The regular season began on October 17, 2017. Christmas Day games will be played on December 25, 2017.[2] The regular season will end on April 11, 2018.",
+          "title": "2017–18 NBA season"
+        }
+      ],
+      "selection_score_hex": "03cdd19b0ed3b7869d0518f24e4de839",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 54,
+      "query_id": "test3399",
+      "question": "what is the meaning of veronica in english",
+      "relevant_documents": [
+        {
+          "_id": "doc115843",
+          "metadata": {},
+          "text": "Veronica is a female given name, the Latin transliteration of the Greek name Berenice, Βερενίκη.[1] This was the Macedonian form of the Athenian Φερενίκη, Phereníkē, or Φερονίκη, Pheroníkē, from φέρειν, phérein, to bring, and νίκη, níkê, \"victory\", i.e. \"she who brings victory\".[2][3] The Ancient Macedonian form of the name was popularized because of its extensive use as a royal feminine name by the reigning dynasties of the states of the Diadochi of Alexander the Great throughout the Eastern Mediterranean during the Hellenistic age, most notably by the Ptolemies of Egypt and by the Seleucids of Asia. In medieval etymology, Veronica was sometimes wrongly supposed to derive from Latin vera (true) and Greek eikon (image).[4] Its popularity in medieval and modern times is based mainly on the importance in Christianity of Saint Veronica and her Veil of Veronica. Pet forms of Veronica include Ronnie and Roni and the German Frony. In Russian, the pet form is Nika (Ника). \"Veronica\" is a popular name in many countries in the Mediterranean, Eastern Europe, and Latin America, as well as southern Ireland, France, and French-speaking Canada.",
+          "title": "Veronica (name)"
+        }
+      ],
+      "selection_score_hex": "03fb25061f2cc6dfe494949ffd603263",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 55,
+      "query_id": "test3168",
+      "question": "who starred in an officer and a gentleman",
+      "relevant_documents": [
+        {
+          "_id": "doc108164",
+          "metadata": {},
+          "text": "An Officer and a Gentleman is a 1982 American romantic drama film[3] starring Richard Gere, Debra Winger and Louis Gossett Jr., who won the Academy Award for Best Supporting Actor for the film, making him the first African American to do so. It tells the story of Zack (Gere), a United States Navy Aviation Officer Candidate who is beginning his training at Aviation Officer Candidate School. While Zack meets his first true girlfriend during his training, a local young woman named Paula (Winger), he also comes into conflict with the hard-driving Marine Corps Gunnery Sergeant (Gossett Jr.), the drill instructor training his class. Also starring Phillip J. Salmon in his first role.",
+          "title": "An Officer and a Gentleman"
+        }
+      ],
+      "selection_score_hex": "03fb665d295c87159471a91b32009119",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 56,
+      "query_id": "test821",
+      "question": "when did the song rapper's delight come out",
+      "relevant_documents": [
+        {
+          "_id": "doc29557",
+          "metadata": {},
+          "text": "\"Rapper's Delight\" is a 1979 hip hop track by the Sugarhill Gang and produced by Sylvia Robinson. While it was not the first single to include rapping, \"Rapper's Delight\" is credited for introducing hip hop music to a wide audience. It was a prototype for various types of rap music, incorporating themes such as boasting, dance, honesty and sex, with the charisma and enthusiasm of James Brown. The track also used samples from Chic's \"Good Times\", resulting in band members Nile Rodgers and Bernard Edwards suing Sugar Hill Records for copyright infringement; a settlement was reached that gave the two songwriter credits.",
+          "title": "Rapper's Delight"
+        }
+      ],
+      "selection_score_hex": "044047885ff85a2e45b8692ba7e06b01",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 57,
+      "query_id": "test2763",
+      "question": "is the new star wars movie a remake of the original",
+      "relevant_documents": [
+        {
+          "_id": "doc95023",
+          "metadata": {},
+          "text": "Star Wars: The Last Jedi (also known as Star Wars: Episode VIII â€“ The Last Jedi) is a 2017 American epic space opera film written and directed by Rian Johnson. It is the second installment of the Star Wars sequel trilogy and the eighth main installment of the Star Wars franchise, following Star Wars: The Force Awakens (2015). It was produced by Lucasfilm and distributed by Walt Disney Studios Motion Pictures. The ensemble cast includes Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Andy Serkis, Lupita Nyong'o, Domhnall Gleeson, Anthony Daniels and Gwendoline Christie in returning roles, with Kelly Marie Tran, Laura Dern and Benicio del Toro joining the cast. The film features the final film performance by Fisher, who died in December 2016, and it is dedicated to her memory. The plot follows Rey as she receives Jedi training from Luke Skywalker, in hopes of turning the tide for the Resistance in the fight against Kylo Ren and the First Order.",
+          "title": "Star Wars: The Last Jedi"
+        },
+        {
+          "_id": "doc95024",
+          "metadata": {},
+          "text": "The Last Jedi was part of a new trilogy of films announced after Disney's acquisition of Lucasfilm in October 2012. It was produced by Lucasfilm President Kathleen Kennedy and Ram Bergman, with Force Awakens director J. J. Abrams as an executive producer. John Williams, composer for the previous films, returned to compose the score. Scenes that required shooting at Skellig Michael in Ireland were filmed during pre-production in September 2015, with principal photography beginning at Pinewood Studios in England in February 2016 and ending in July 2016. Post-production wrapped in September 2017.",
+          "title": "Star Wars: The Last Jedi"
+        },
+        {
+          "_id": "doc95036",
+          "metadata": {},
+          "text": "The story begins immediately after the last scene of The Force Awakens.[37] He had his story group watch films such as Twelve O'Clock High, The Bridge on the River Kwai, Gunga Din, Three Outlaw Samurai, Sahara, and Letter Never Sent for inspiration while developing ideas.[37][49] He felt it was difficult to work on the film while The Force Awakens was being finished.[37]",
+          "title": "Star Wars: The Last Jedi"
+        }
+      ],
+      "selection_score_hex": "0450bc46cd9c87e066bb7008e07154bf",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 58,
+      "query_id": "test38",
+      "question": "what degree is a crock pot on low",
+      "relevant_documents": [
+        {
+          "_id": "doc1026",
+          "metadata": {},
+          "text": "To use a slow cooker, the cook places raw food and a liquid, such as stock, water, or wine, in the slow cooker. Some recipes call for pre-heated liquid. The cook puts the lid on the slow cooker and turns it on. Some cookers automatically switch from cooking to warming (maintaining the temperature at 71–74 °C (160–165 °F) after a fixed time or after the internal temperature of the food, as determined by a probe, reaches a specified value.",
+          "title": "Slow cooker"
+        }
+      ],
+      "selection_score_hex": "0451004d690becb467908577886ba9fc",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 59,
+      "query_id": "test332",
+      "question": "who played miss wheeler in carry on teacher",
+      "relevant_documents": [
+        {
+          "_id": "doc12764",
+          "metadata": {},
+          "text": "Two years later she joined a touring group, the West of England Theatre Company, for an eight-month stint. She was spotted by a producer, which led to her being cast as a schoolgirl in Blue Murder at St Trinian's in 1957.[6] That same year, she starred with her father, playing father and daughter, in the BBC production of Nicholas Nickleby.[7] An earlier film role, albeit uncredited, was as a lady-in-waiting in Laurence Olivier's film Richard III (1955), which also starred her father. She performed in two early Carry On films. In Carry On Nurse, she played Nurse Nightingale and in Carry On Teacher she played Felicity Wheeler, a prim school inspector whose amorous hopes toward Kenneth Connor's wimpy science master are continually thwarted.[1]",
+          "title": "Rosalind Knight"
+        }
+      ],
+      "selection_score_hex": "04564220f6882dc015360c91101a537c",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 60,
+      "query_id": "test3131",
+      "question": "where does the arrow of a wind vane point",
+      "relevant_documents": [
+        {
+          "_id": "doc106952",
+          "metadata": {},
+          "text": "Although partly functional, weather vanes are generally decorative, often featuring the traditional cockerel design with letters indicating the points of the compass. Other common motifs include ships, arrows and horses. Not all weather vanes have pointers. When the wind is sufficiently strong, the head of the arrow or cockerel (or equivalent depending on the chosen design) will indicate the direction from which the wind is blowing.",
+          "title": "Weather vane"
+        }
+      ],
+      "selection_score_hex": "047713a380d59432bac1f342969be031",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 61,
+      "query_id": "test729",
+      "question": "when did the crucifix become the symbol of christianity",
+      "relevant_documents": [
+        {
+          "_id": "doc26069",
+          "metadata": {},
+          "text": "During the first two centuries of Christianity, the cross was rare in Christian iconography, as it depicts a purposely painful and gruesome method of public execution and Christians were reluctant to use it.[1] A symbol similar to the cross, the staurogram, was used to abbreviate the Greek word for cross in very early New Testament manuscripts such as P66, P45 and P75, almost like a nomen sacrum (nomina sacra).[6] The extensive adoption of the cross as Christian iconographic symbol arose from the 4th century.[7]",
+          "title": "Christian cross"
+        },
+        {
+          "_id": "doc26070",
+          "metadata": {},
+          "text": "However, the cross symbol was already associated with Christians in the 2nd century, as is indicated in the anti-Christian arguments cited in the Octavius[8] of Minucius Felix, chapters IX and XXIX, written at the end of that century or the beginning of the next,[9] and by the fact that by the early 3rd century the cross had become so closely associated with Christ that Clement of Alexandria, who died between 211 and 216, could without fear of ambiguity use the phrase τὸ κυριακὸν σημεῖον (the Lord's sign) to mean the cross, when he repeated the idea, current as early as the apocryphal Epistle of Barnabas, that the number 318 (in Greek numerals, ΤΙΗ) in Genesis 14:14 was interpreted as a foreshadowing (a \"type\") of the cross (T, an upright with crossbar, standing for 300) and of Jesus (ΙΗ, the first two letter of his name ΙΗΣΟΥΣ, standing for 18),[10] and his contemporary Tertullian could designate the body of Christian believers as crucis religiosi, i.e. \"devotees of the Cross\".[11] In his book De Corona, written in 204, Tertullian tells how it was already a tradition for Christians to trace repeatedly on their foreheads the sign of the cross.[12] The crucifix, a cross upon which an image of Christ is present, is not known to have been used until the 6th century AD.[13]",
+          "title": "Christian cross"
+        }
+      ],
+      "selection_score_hex": "048ceb52c13deb368904d02a2fcdbd5a",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 62,
+      "query_id": "test1814",
+      "question": "what is the main issue behind starlink corn",
+      "relevant_documents": [
+        {
+          "_id": "doc63817",
+          "metadata": {},
+          "text": "StarLink is a genetically modified maize, containing two modifications: a gene for resistance to glufosinate, and a variant of the bacillus thuringiensis (Bt) protein called Cry9C.[2] Cry9C had not been used in a GM crop prior to StarLink, causing heightened regulatory scrutiny.[3] StarLink's creator, Plant Genetic Systems, which later became Aventis CropScience during the time of the incident,[4]:15â€“16 had applied to the US Environmental Protection Agency (EPA) to market StarLink for use in animal feed and in the human food supply.[4]:14 However, because the Cry9C protein lingers in the digestive system before breaking down, the EPA had concerns about its allergenicity, and PGS did not provide sufficient data to prove that Cry9C was not allergenic.[5]:3 As a result, PGS split its application into separate permits for use in food and use in animal feed only.[3][6] StarLink was approved by the EPA for use in animal feed only in May 1998. After the incident the company at first tried to get the application for human consumption approved, and then withdrew the product entirely from the market.[4]:15",
+          "title": "StarLink corn recall"
+        }
+      ],
+      "selection_score_hex": "0493417b58b5048936dad25d164340dc",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 63,
+      "query_id": "test1735",
+      "question": "explain what happens to the extra quarter of a day each calendar year",
+      "relevant_documents": [
+        {
+          "_id": "doc61443",
+          "metadata": {},
+          "text": "In the Gregorian calendar, the standard calendar in most of the world, most years that are multiples of 4 are leap years. In each leap year, the month of February has 29 days instead of 28. Adding one extra day in the calendar every four years compensates for the fact that a period of 365 days is shorter than a tropical year by almost 6 hours.[4] Some exceptions to this basic rule are required since the duration of a tropical year is slightly less than 365.25 days. The Gregorian reform modified the Julian calendar's scheme of leap years as follows:",
+          "title": "Leap year"
+        }
+      ],
+      "selection_score_hex": "049e95e9923537d31481e0d968e81a6d",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 64,
+      "query_id": "test1031",
+      "question": "actress who plays penelope garcia on criminal minds",
+      "relevant_documents": [
+        {
+          "_id": "doc36239",
+          "metadata": {},
+          "text": "Kirsten Simone Vangsness (born July 7, 1972)[1] is an American actress and writer. She currently stars as FBI Technical Analyst Penelope Garcia on the CBS drama series Criminal Minds. She portrayed the same character on the spin-off series Criminal Minds: Suspect Behavior.[2]",
+          "title": "Kirsten Vangsness"
+        }
+      ],
+      "selection_score_hex": "04af97904e84d80da7bda06957f79a31",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 65,
+      "query_id": "test1845",
+      "question": "who is in charge of ratifying treaties in the us",
+      "relevant_documents": [
+        {
+          "_id": "doc64923",
+          "metadata": {},
+          "text": "Treaty power is a co-ordinated effort between the Executive branch and the Senate. The President may form and negotiate, but the treaty must be advised and consented to by a two-thirds vote in the Senate. Only after the Senate approves the treaty can the President ratify it. Once it is ratified, it becomes binding on all the states under the Supremacy Clause. While the House of Representatives does not vote on it at all, the requirement for the Senate's advice and consent to ratification makes it considerably more difficult to rally enough political support for international treaties. Also, if implementation of the treaty requires the expenditure of funds, the House of Representatives may be able to block or at least impede such implementation by refusing to vote for the appropriation of the necessary funds.",
+          "title": "Ratification"
+        }
+      ],
+      "selection_score_hex": "04c355e7acff8837221eb075bea2dc9c",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 66,
+      "query_id": "test953",
+      "question": "what is the difference between governor and chief minister in india",
+      "relevant_documents": [
+        {
+          "_id": "doc33780",
+          "metadata": {},
+          "text": "The governors and lieutenant-governors/administrators of the states and union territories of India have similar powers and functions at the state level as that of the President of India at Union level. Governors exist in the states while lieutenant-governors exist in union territories and in the National Capital Territory of Delhi. The governor acts as the nominal head whereas the real power lies with the chief ministers of the states and their councils of ministers.",
+          "title": "Governors of states of India"
+        }
+      ],
+      "selection_score_hex": "04c43d8b6a81272f31a6abe5d8510987",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 67,
+      "query_id": "test2308",
+      "question": "what is the function of trnas in protein synthesis",
+      "relevant_documents": [
+        {
+          "_id": "doc79686",
+          "metadata": {},
+          "text": "A transfer RNA (abbreviated tRNA and formerly referred to as sRNA, for soluble RNA[1]) is an adaptor molecule composed of RNA, typically 76 to 90 nucleotides in length,[2] that serves as the physical link between the mRNA and the amino acid sequence of proteins. tRNA does this by carrying an amino acid to the protein synthetic machinery of a cell (ribosome) as directed by a three-nucleotide sequence (codon) in a messenger RNA (mRNA). As such, tRNAs are a necessary component of translation, the biological synthesis of new proteins in accordance with the genetic code.",
+          "title": "Transfer RNA"
+        },
+        {
+          "_id": "doc79687",
+          "metadata": {},
+          "text": "While the specific nucleotide sequence of a mRNA specifies which amino acids are incorporated into the protein product of the gene from which the mRNA is transcribed, the role of tRNA is to specify which sequence from the genetic code corresponds to which amino acid.[3] The mRNA encodes a protein as a series of contiguous codons, each of which is recognized by a particular tRNA. One end of the tRNA matches the genetic code in a three-nucleotide sequence called the anticodon. The anticodon forms three base pairs with a codon in mRNA during protein biosynthesis. On the other end of the tRNA is a covalent attachment to the amino acid that corresponds to the anticodon sequence. Each type of tRNA molecule can be attached to only one type of amino acid, so each organism has many types of tRNA. Because the genetic code contains multiple codons that specify the same amino acid, there are several tRNA molecules bearing different anticodons which carry the same amino acid.",
+          "title": "Transfer RNA"
+        }
+      ],
+      "selection_score_hex": "04c6679b1a3730c3f6ad4444cfebf6b5",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 68,
+      "query_id": "test3048",
+      "question": "who has said that caste is a closed class",
+      "relevant_documents": [
+        {
+          "_id": "doc104443",
+          "metadata": {},
+          "text": "Both ethnic affiliation (e.g. Pathan, Sindhi, Baloch, Punjabi, etc.) and membership of specific biraderis or zaat/quoms are additional integral components of social identity.[19] Within the bounds of endogamy defined by the above parameters, close consanguineous unions are preferred due to a congruence of key features of group- and individual-level background factors as well as affinities. McKim Marriott claims a social stratification that is hierarchical, closed, endogamous and hereditary is widely prevalent, particularly in western parts of Pakistan. Frederik Barth in his review of this system of social stratification in Pakistan suggested that these are castes.[20][21][22]",
+          "title": "Caste"
+        }
+      ],
+      "selection_score_hex": "04cd85d2917a6b5173ea7a0907d37f28",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 69,
+      "query_id": "test1936",
+      "question": "when did south sudan join east african community",
+      "relevant_documents": [
+        {
+          "_id": "doc67832",
+          "metadata": {},
+          "text": "South Sudan was eventually approved for membership to the bloc in March 2016,[32] and signed a treaty of accession in April 2016.[33] It had six months to ratify the agreement, which it did on 5 September, at which point it formally acceded to the community.[34][35] It does not yet participate to the same extent as the other members.[16]",
+          "title": "East African Community"
+        }
+      ],
+      "selection_score_hex": "04d0addfa0687582d0149950f9a81e23",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 70,
+      "query_id": "test1429",
+      "question": "are hash browns and tater tots the same",
+      "relevant_documents": [
+        {
+          "_id": "doc50835",
+          "metadata": {},
+          "text": "Originally, the full name was \"hashed brown potatoes\" (or \"hashed browned potatoes\"), of which the first known mention is by American food author Maria Parloa (1843â€“1909) in 1888.[5] The name was gradually shortened to 'hash brown potatoes'.[6] Bite sized Hash Browns are small cylindrical dumplings, known as Tater Tots in the U.S. and Potato Gems in Australia, and are sold commercially at diners and in frozen food aisles in packets.",
+          "title": "Hash browns"
+        }
+      ],
+      "selection_score_hex": "04d0b89b584f7efd309d5292eae429b1",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 71,
+      "query_id": "test1121",
+      "question": "do you need visa to go to taiwan",
+      "relevant_documents": [
+        {
+          "_id": "doc39522",
+          "metadata": {},
+          "text": "Visitors to Taiwan must obtain a visa or authorization in advance, unless they come from one of the visa exempt countries or countries whose nationals are eligible for visa on arrival. All visitors must hold a passport valid for 6 months (except the citizens of Japan who can hold a passport valid for 3 months, and citizens of United States who are only required to hold a passport valid for the entire duration of stay).[1]",
+          "title": "Visa policy of Taiwan"
+        }
+      ],
+      "selection_score_hex": "04d5f7d03a0d10db93d8808c9da69c43",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 72,
+      "query_id": "test1813",
+      "question": "who plays jack skellington in nightmare before christmas",
+      "relevant_documents": [
+        {
+          "_id": "doc63794",
+          "metadata": {},
+          "text": "Jack Skellington is a character and the main protagonist of the 1993 film The Nightmare Before Christmas. Jack is the \"Pumpkin King\" of Halloween Town, a fantasy world based solely on the Halloween holiday.[2] Jack is voiced by Chris Sarandon.[1][3] Danny Elfman provided Jack's singing voice in the film, although Sarandon has sung as Jack in subsequent productions.",
+          "title": "Jack Skellington"
+        }
+      ],
+      "selection_score_hex": "04d6cc9b0de0d957737b820a80a14017",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 73,
+      "query_id": "test2087",
+      "question": "when did the us stop trading with japan",
+      "relevant_documents": [
+        {
+          "_id": "doc72535",
+          "metadata": {},
+          "text": "Beginning in 1938, the U.S. adopted a succession of increasingly restrictive trade restrictions with Japan. This included terminating its 1911 commercial treaty with Japan in 1939, further tightened by the Export Control Act of 1940. These efforts failed to deter Japan from continuing its war in China, or from signing the Tripartite Pact in 1940 with Nazi Germany and Fascist Italy, officially forming the Axis Powers.",
+          "title": "Events leading to the attack on Pearl Harbor"
+        }
+      ],
+      "selection_score_hex": "04e1f1daa11de04fdcc564c051b617d7",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 74,
+      "query_id": "test1326",
+      "question": "how okd was sean white in his first olympics",
+      "relevant_documents": [
+        {
+          "_id": "doc46943",
+          "metadata": {},
+          "text": "At the 2006 Winter Olympics, White won gold in the half-pipe.[5] After his first run in qualifications, White was almost out of competition, scoring only 37.7. On his second run, he recorded a score of 45.3. In the finals, White recorded a score of 46.8 (50 is the highest possible score) to win. Fellow American Danny Kass won the silver with a points total of 44.0.[6]",
+          "title": "Shaun White"
+        }
+      ],
+      "selection_score_hex": "050106de7cef5f7260200b081aaf87e9",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 75,
+      "query_id": "test1857",
+      "question": "who wrote shes always a woman to me",
+      "relevant_documents": [
+        {
+          "_id": "doc65395",
+          "metadata": {},
+          "text": "The song was released in 1977, following several other hits from The Stranger including \"Just the Way You Are\", \"Movin' Out (Anthony's Song)\" and \"Only the Good Die Young\". Musically, Joel has said that he was influenced by Gordon Lightfoot and his mellow acoustic guitar ballads. It is a love song that Joel wrote for his then wife, Elizabeth Weber. Elizabeth had taken over management of Joel's career, and was able to put his financial affairs in order after Joel had signed some bad deals and contracts. She was a tough and savvy negotiator who could \"wound with her eyes\" or \"steal like a thief\", but would \"never give in\". Because of her tough-as-nails negotiating style, many business adversaries thought she was \"unfeminine,\" but to Joel, she was always a woman.[3] The two eventually divorced in 1982.",
+          "title": "She's Always a Woman"
+        }
+      ],
+      "selection_score_hex": "050108f0fa8226f0060cecb8e1d001a9",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 76,
+      "query_id": "test2659",
+      "question": "band who had a hit with heart and soul crossword",
+      "relevant_documents": [
+        {
+          "_id": "doc91220",
+          "metadata": {},
+          "text": "\"Heart and Soul\" is a song by British pop band T'Pau. Featuring vocalist Carol Decker performing overlapping lyrics, the song was released as the group's first single in 1987 from their debut album Bridge of Spies. Following its inclusion in a Pepe Jeans advert, the single reached No. 4 in both the US and UK charts.",
+          "title": "Heart and Soul (T'Pau song)"
+        }
+      ],
+      "selection_score_hex": "0506dec1eeeb53f09204f77d5eeb9374",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 77,
+      "query_id": "test450",
+      "question": "what are the 5 pillars of faith of islam",
+      "relevant_documents": [
+        {
+          "_id": "doc16720",
+          "metadata": {},
+          "text": "The Shia, Ahmadiyya, and Sunni agree on the essential details for the performance and practice of these acts,[5][6] but the Shia do not refer to them by the same name (see Ancillaries of the Faith, for the Twelvers, and Seven pillars of Ismailism). They make up Muslim life, prayer, concern for the needy, self-purification, and the pilgrimage,[7][8] if one is able.[9]",
+          "title": "Five Pillars of Islam"
+        }
+      ],
+      "selection_score_hex": "050b66b6fb7ccaad47a793220b082c8e",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 78,
+      "query_id": "test2878",
+      "question": "when was the first time lebron went to the finals",
+      "relevant_documents": [
+        {
+          "_id": "doc98453",
+          "metadata": {},
+          "text": "The Cleveland Cavaliers entered the 2007 Finals as newcomers. Game 1 was their first NBA Finals game in franchise history, and the first for each of its players (other than reserve point guard Eric Snow). However, the San Antonio Spurs had been to the Finals in three of the past eight seasons, winning a championship each time. With solid performances by Tim Duncan, Tony Parker, and Manu Ginóbili, the Spurs won the series opener in convincing fashion, limiting LeBron James to 14 points on 4–16 shooting.",
+          "title": "2007 NBA Finals"
+        }
+      ],
+      "selection_score_hex": "0516478502a29ba8e4249d1dac094685",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 79,
+      "query_id": "test956",
+      "question": "most of new zealands land supports which economic activity",
+      "relevant_documents": [
+        {
+          "_id": "doc33836",
+          "metadata": {},
+          "text": "In New Zealand, agriculture is the largest sector of the tradable economy, contributing about two-thirds of exported goods in 2006-7.[1] For the year ended March 2002, agricultural exports were valued at over $14.8Â billion. New Zealand is unique in being the only developed country to be totally exposed to the international markets since subsidies, tax concessions and price supports for the agricultural sector were removed in the 1980s.[2] However, as of 2017, the New Zealand Government still provides state investment in infrastructure which supports agriculture.[3]",
+          "title": "Agriculture in New Zealand"
+        },
+        {
+          "_id": "doc33837",
+          "metadata": {},
+          "text": "Pastoral farming is the major land use but there are increases in land area devoted to horticulture.",
+          "title": "Agriculture in New Zealand"
+        }
+      ],
+      "selection_score_hex": "0522b64455458549c1c0b093ed5b5583",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 80,
+      "query_id": "test737",
+      "question": "when did red dead redemption 1 come out",
+      "relevant_documents": [
+        {
+          "_id": "doc26238",
+          "metadata": {},
+          "text": "Red Dead Redemption is a Western-themed action-adventure video game developed by Rockstar San Diego and published by Rockstar Games. It was released for PlayStation 3 and Xbox 360 consoles in May 2010. It is the second title in the Red Dead franchise, after 2004's Red Dead Revolver. The game, set during the decline of the American frontier in the year 1911, follows John Marston, a former outlaw whose wife and son are taken hostage by the government in ransom for his services as a hired gun. Having no other choice, Marston sets out to bring the three members of his former gang to justice.",
+          "title": "Red Dead Redemption"
+        },
+        {
+          "_id": "doc26256",
+          "metadata": {},
+          "text": "Though a technology demonstration was shown in 2005,[25] Red Dead Redemption was first formally announced by Rockstar Games on February 3, 2009.[26] They released its debut trailer on December 1, 2009, introducing the game's protagonist.[27] The game missed its original projected April 2010 release date, pushed back to May 18, 2010 to allow for further polishing.[28] To spur pre-order game sales, Rockstar collaborated with several retail outlets to provide pre-order bonuses. These included exclusive in-game outfits, weapons and horses,[29] as well as the game's official soundtrack.[30]",
+          "title": "Red Dead Redemption"
+        }
+      ],
+      "selection_score_hex": "05300004e33c7614867e87378389e81a",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 81,
+      "query_id": "test1855",
+      "question": "bible verse about honor thy mother and father",
+      "relevant_documents": [
+        {
+          "_id": "doc65334",
+          "metadata": {},
+          "text": "\"Honour thy father and thy mother\" is one of the Ten Commandments in the Hebrew Bible. The commandment is generally regarded in Protestant and Jewish sources as the fifth in both the list in Exodus 20:1–21, and in Deuteronomy (Dvarim) 5:1–23. Catholics count this as the fourth.[1]",
+          "title": "Honour thy father and thy mother"
+        }
+      ],
+      "selection_score_hex": "053ae406d1bf3c8e5ac8705071a05efd",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 82,
+      "query_id": "test2914",
+      "question": "who turns into a bear in the hobbit",
+      "relevant_documents": [
+        {
+          "_id": "doc99522",
+          "metadata": {},
+          "text": "Beorn is a fictional character created by J. R. R. Tolkien. He appears in The Hobbit as a \"skin-changer\",[1] a man who could assume the form of a great black bear.[2]",
+          "title": "Beorn"
+        }
+      ],
+      "selection_score_hex": "0543b84e7b49f6a34277b43659e4c3bd",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 83,
+      "query_id": "test2615",
+      "question": "where did rafael nadal win his first tennis title",
+      "relevant_documents": [
+        {
+          "_id": "doc89556",
+          "metadata": {},
+          "text": "When Nadal was 12, he won the Spanish and European tennis titles in his age group and was playing tennis and football all the time.[43] Nadal's father made him choose between football and tennis so that his school work would not deteriorate entirely. Nadal said: \"I chose tennis. Football had to stop straight away.\"[43]",
+          "title": "Rafael Nadal"
+        }
+      ],
+      "selection_score_hex": "0546ac04b4badfb703076b2174be0e5e",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 84,
+      "query_id": "test1398",
+      "question": "star trek the next generation season 3 episode 24",
+      "relevant_documents": [
+        {
+          "_id": "doc49792",
+          "metadata": {},
+          "text": "\"Ménage à Troi\" is the 24th episode of the third season of the American science fiction television series Star Trek: The Next Generation, and the 72nd episode of the series overall.",
+          "title": "Ménage à Troi"
+        }
+      ],
+      "selection_score_hex": "055dd2c130105aba5ec852c665188cf0",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 85,
+      "query_id": "test2007",
+      "question": "theory for functional group test for aldehyde and ketones",
+      "relevant_documents": [
+        {
+          "_id": "doc70415",
+          "metadata": {},
+          "text": "2,4-Dinitrophenylhydrazine can be used to qualitatively detect the carbonyl functionality of a ketone or aldehyde functional group. A positive test is signalled by the formation of a yellow, orange or red precipitate (known as a dinitrophenylhydrazone). If the carbonyl compound is aromatic, then the precipitate will be red; if aliphatic, then the precipitate will have a more yellow color.[2] The reaction between 2,4-dinitrophenylhydrazine and a generic ketone to form a hydrazone is shown below:",
+          "title": "2,4-Dinitrophenylhydrazine"
+        }
+      ],
+      "selection_score_hex": "0565d3056036d6f6dfcbfef0ecff3f89",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 86,
+      "query_id": "test1502",
+      "question": "where is gall bladder situated in human body",
+      "relevant_documents": [
+        {
+          "_id": "doc53473",
+          "metadata": {},
+          "text": "In vertebrates, the gallbladder is a small hollow organ where bile is stored and concentrated before it is released into the small intestine. In humans, the pear-shaped gallbladder lies beneath the liver, although the structure and position of the gallbladder can vary significantly among animal species. It receives and stores bile, produced by the liver, via the common hepatic duct, and releases it via the common bile duct into the duodenum, where the bile helps in the digestion of fats.",
+          "title": "Gallbladder"
+        }
+      ],
+      "selection_score_hex": "05872a4f4d9bca08f19202278b42a6d5",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 87,
+      "query_id": "test2200",
+      "question": "how old was sasuke when his clan died",
+      "relevant_documents": [
+        {
+          "_id": "doc76738",
+          "metadata": {},
+          "text": "Sasuke is introduced in the third chapter of Naruto's manga as a young ninja assigned to become a member of Team 7 alongside Naruto Uzumaki and Sakura Haruno.[43] The trio are trained under the guidance of Kakashi Hatake.[44] Although Sasuke is antisocial, he starts caring about Naruto and Sakura.[45] During a mission, Sasuke awakens his Sharingan — his clan's inherited ability to see through illusions — which allows him to learn imperceptible movements at a superhuman rate.[46][47] It is revealed later that Sasuke is the sole survivor of the once-powerful Uchiha clan of Konohagakure. He, at the age of seven, survived the massacre of his clan perpetrated by his brother, Itachi, who spared Sasuke's life because he did not consider him worth killing.[48] Sasuke seeks strong fighting opponents to reassure himself his power is growing.[49]",
+          "title": "Sasuke Uchiha"
+        }
+      ],
+      "selection_score_hex": "058cee7874c86f13542a9d2fd9fedcc7",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 88,
+      "query_id": "test3262",
+      "question": "who owns the golden nugget casino in atlantic city",
+      "relevant_documents": [
+        {
+          "_id": "doc111533",
+          "metadata": {},
+          "text": "Golden Nugget Atlantic City is a hotel, casino, and marina located in Atlantic City, New Jersey. Opened in 1985 as Trump's Castle, it was renamed Trump Marina in 1997. Landry's, Inc. purchased the casino from Trump Entertainment Resorts in February 2011, and the sale was approved in late May. Landry's took control of the property on May 23, 2011.",
+          "title": "Golden Nugget Atlantic City"
+        }
+      ],
+      "selection_score_hex": "059218ef7f709e7dc039c7c214914e69",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 89,
+      "query_id": "test1741",
+      "question": "the joint between a coxal bone of the pelvis and the sacrum",
+      "relevant_documents": [
+        {
+          "_id": "doc61611",
+          "metadata": {},
+          "text": "The sacroiliac joint or SI joint (SIJ) is the joint between the sacrum and the ilium bones of the pelvis, which are connected by strong ligaments. In humans, the sacrum supports the spine and is supported in turn by an ilium on each side. The joint is a strong, weight transferral synovial plane joint with irregular elevations and depressions that produce interlocking of the two bones.[1] The human body has two sacroiliac joints, one on the left and one on the right, that often match each other but are highly variable from person to person.[1]",
+          "title": "Sacroiliac joint"
+        }
+      ],
+      "selection_score_hex": "05994b3299ef2a6340ee8af31358c39b",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 90,
+      "query_id": "test906",
+      "question": "this poster was created to increase support for the war effort.the poster links food rationing to",
+      "relevant_documents": [
+        {
+          "_id": "doc32311",
+          "metadata": {},
+          "text": "Amid regular rationing of food in Britain, the United States Department of Agriculture encouraged the planting of victory gardens during the course of World War II. Around one third of the vegetables produced by the United States came from victory gardens.[9] It was emphasized to American home front urbanites and suburbanites that the produce from their gardens would help to lower the price of vegetables needed by the US War Department to feed the troops, thus saving money that could be spent elsewhere on the military: \"Our food is fighting,\" one US poster read.[10] By May 1943, there were 18 million victory gardens in the United States - 12 million in cities and 6 million on farms.[11]",
+          "title": "Victory garden"
+        }
+      ],
+      "selection_score_hex": "05a1d112d53470e06f008913bf7c8e61",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 91,
+      "query_id": "test2882",
+      "question": "who was the mexican commander who surrendered to the texans at the capturing of san antonio",
+      "relevant_documents": [
+        {
+          "_id": "doc98582",
+          "metadata": {},
+          "text": "By daylight, only 120Â experienced infantry remained in the Mexican garrison.[57] Cos called Sanchez Navarro to the Alamo and gave him orders to \"go save those brave men. ... Approach the enemy and obtain the best terms possible\".[60] Sanchez Navarro first returned to his post at the plaza to inform the soldiers of the imminent surrender. Several officers argued with him, explaining that \"the Morelos Battalion has never surrendered\", but Sanchez Navarro held firm to his orders.[60] Bugle calls for a parley received no response from the Texians, and at 7 am Sanchez Navarro raised a flag of truce.[60]",
+          "title": "Siege of Béxar"
+        }
+      ],
+      "selection_score_hex": "05a5dbde5dbc9f5f47660a690d67f446",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 92,
+      "query_id": "test2132",
+      "question": "when did tim hortons open in the usa",
+      "relevant_documents": [
+        {
+          "_id": "doc74206",
+          "metadata": {},
+          "text": "Initially, the US stores were the result of natural expansion in Canadaâ€“US border areas (e.g., stores in Maine and the Buffalo, New York area where Horton played from 1972 to 1974 as a member of the Buffalo Sabres). The first United States locations were opened in Deerfield Beach, Florida and Pompano Beach, Florida in 1981, but they proved unsuccessful and were closed.[85] In 1985, the chain returned to the US with a location on Niagara Falls Boulevard in the Buffalo suburb of Amherst, New York.[86] Starting in the mid-1990s, however, the chain began expanding in the US by acquiring former locations from fast food chains. In 1996 and 1997, thirty-seven former Rax Restaurants locations in Ohio, Kentucky, and West Virginia were bought by Wendy's International Inc.; 30 of these were converted to Tim Hortons, while the others became Wendy's franchise locations. Thirty-five closed Hardee's stores in the Detroit area were also purchased with the intention of being converted.[87] By 2004, the chain had also acquired 42 Bess Eaton coffee and doughnut restaurants situated in southern New England. Several combination Wendy's/Tim Hortons units were opened in the US; both in the \"traditional\" markets of Maine and Buffalo, where there were well over 180 locations as of 2011,[88] and in the markets entered through acquisition.",
+          "title": "Tim Hortons"
+        }
+      ],
+      "selection_score_hex": "05b8e67d98d3a04cac6e9b3613f124f1",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 93,
+      "query_id": "test697",
+      "question": "how long is one full rotation of the earth",
+      "relevant_documents": [
+        {
+          "_id": "doc24903",
+          "metadata": {},
+          "text": "Earth rotates once in about 24 hours with respect to the Sun, but once every 23 hours, 56 minutes, and 4 seconds with respect to the stars (see below). Earth's rotation is slowing slightly with time; thus, a day was shorter in the past. This is due to the tidal effects the Moon has on Earth's rotation. Atomic clocks show that a modern day is longer by about 1.7 milliseconds than a century ago,[1] slowly increasing the rate at which UTC is adjusted by leap seconds. Analysis of historical astronomical records shows a slowing trend of 2.3 milliseconds per century since the 8th century BCE.[2]",
+          "title": "Earth's rotation"
+        }
+      ],
+      "selection_score_hex": "05c64b569ad032959ef990135671dc62",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 94,
+      "query_id": "test1001",
+      "question": "why did france decide to aid the united states in its war for independence",
+      "relevant_documents": [
+        {
+          "_id": "doc35370",
+          "metadata": {},
+          "text": "France bitterly resented its loss in the Seven Years' War and sought revenge. It also wanted to strategically weaken Britain. Following the Declaration of Independence, the American Revolution was well received by both the general population and the aristocracy in France. The Revolution was perceived as the incarnation of the Enlightenment Spirit against the \"English tyranny.\" Benjamin Franklin traveled to France in December 1776 in order to rally the nation's support, and he was welcomed with great enthusiasm. At first, French support was covert: French agents sent the Patriots military aid (predominantly gunpowder) through a company called Rodrigue Hortalez et Compagnie, beginning in the spring of 1776. Estimates place the percentage of French supplied arms to the Americans in the Saratoga campaign at up to 90%.[3] By 1777, over five million livres of aid had been sent to the American rebels.",
+          "title": "France in the American Revolutionary War"
+        }
+      ],
+      "selection_score_hex": "05f892dee634c51dfcf05fa92474f8d4",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 95,
+      "query_id": "test1905",
+      "question": "when was the movie cool hand luke made",
+      "relevant_documents": [
+        {
+          "_id": "doc66877",
+          "metadata": {},
+          "text": "Cool Hand Luke is a 1967 American prison drama film directed by Stuart Rosenberg,[3] starring Paul Newman and featuring George Kennedy in an Oscar-winning performance. Newman stars in the title role as Luke, a prisoner in a Florida prison camp who refuses to submit to the system.",
+          "title": "Cool Hand Luke"
+        }
+      ],
+      "selection_score_hex": "05fe1e99991ebc0a7af9259b8aa11d4b",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 96,
+      "query_id": "test555",
+      "question": "what is the story of the very hungry caterpillar",
+      "relevant_documents": [
+        {
+          "_id": "doc20193",
+          "metadata": {},
+          "text": "The Very Hungry Caterpillar is a children's picture book designed, illustrated, and written by Eric Carle, first published by the World Publishing Company in 1969, later published by Penguin Putnam.[1] It features a caterpillar who eats its way through a wide variety of foodstuffs before pupating and emerging as a butterfly. The winner of many children's literature awards and a major graphic design award,[2] it has sold 30 million copies worldwide.[3] It has been described as having sold the equivalent of a copy per minute since its publication.[4] It has been described as \"one of the greatest childhood classics of all time.\"[5] It was voted the number two children's picture book in a 2012 survey of School Library Journal readers.[6]",
+          "title": "The Very Hungry Caterpillar"
+        },
+        {
+          "_id": "doc20195",
+          "metadata": {},
+          "text": "One Sunday morning, a red-faced caterpillar hatches from an egg, and begins to look for some food. He eats through increasing quantities of fruit on the following five days, one apple on Monday, two pears on Tuesday, three plums on Wednesday, four strawberries on Thursday, and five oranges on Friday, and then, on Saturday, he has an enormous feast with one piece of chocolate cake, one ice-cream cone, one pickle, one slice of Swiss cheese, one slice of salami, one lollipop, one piece of cherry pie, one sausage, one cupcake, and one slice of watermelon. By the end of Saturday, the inevitable happens and the caterpillar gets ill with a stomach ache from over eating too much. On Sunday, he recovers from a stomach-ache and returns to a more sensible diet by eating through a large green leaf before spinning a cocoon in which he remains for the following two weeks. Later, the \"big fat caterpillar\" emerges as a beautiful butterfly with large, gorgeous, multi-coloured wings.",
+          "title": "The Very Hungry Caterpillar"
+        }
+      ],
+      "selection_score_hex": "060dad0f4146ce380363f4e4f072cdec",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 97,
+      "query_id": "test2599",
+      "question": "how many farmers are there in the usa",
+      "relevant_documents": [
+        {
+          "_id": "doc89008",
+          "metadata": {},
+          "text": "In 2012, there were 3.2 million farmers,[19] ranchers and other agricultural managers and an estimated 757,900 agricultural workers were legally employed in the US. Animal breeders accounted for 11,500 of those workers with the rest categorized as miscellaneous agricultural workers. The median pay was $9.12 per hour or $18,970 per year.[20] In 2009, about 519,000 people under age 20 worked on farms owned by their family. In addition to the youth who lived on family farms, an additional 230,000 youth were employed in agriculture.[21] In 2004, women made up approximately 24% of farmers; that year, there were 580,000 women employed in agriculture, forestry, and fishing.[22]",
+          "title": "Agriculture in the United States"
+        }
+      ],
+      "selection_score_hex": "061a9acdaad5f60c36db99d391a67590",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 98,
+      "query_id": "test401",
+      "question": "what type of reproduction do whiptail lizards use",
+      "relevant_documents": [
+        {
+          "_id": "doc15012",
+          "metadata": {},
+          "text": "The New Mexico whiptail (Cnemidophorus neomexicanus) is a female-only species of lizard found in the southern United States in New Mexico and Arizona, and in northern Mexico in Chihuahua. It is the official state reptile of New Mexico.[1] It is one of many lizard species known to be parthenogenic. Individuals of the species can be created either through the hybridization of the little striped whiptail (C. inornatus) and the western whiptail (C. tigris),[2] or through the parthenogenic reproduction of an adult New Mexico whiptail.",
+          "title": "New Mexico whiptail"
+        },
+        {
+          "_id": "doc15013",
+          "metadata": {},
+          "text": "The hybridization of these species prevents healthy males from forming, whereas males exist in both parent species (see Sexual differentiation). Parthenogenesis allows the resulting all-female population to reproduce and thus evolve into a unique species capable of reproduction. This combination of interspecific hybridization and parthenogenesis exists as a reproductive strategy in several species of whiptail lizard within the Cnemidophorus genus to which the New Mexico whiptail belongs.",
+          "title": "New Mexico whiptail"
+        },
+        {
+          "_id": "doc15015",
+          "metadata": {},
+          "text": "Like most other whiptail lizards, the New Mexico whiptail is diurnal and insectivorous. They are wary, energetic, and fast moving, darting for cover if approached. They are found in a wide variety of semi-arid habitats, including grassland, rocky areas, shrubland, or mountainside woodlands. Reproduction occurs through parthenogenesis, with up to four unfertilized eggs being laid in mid summer, and hatching approximately eight weeks later.",
+          "title": "New Mexico whiptail"
+        },
+        {
+          "_id": "doc15016",
+          "metadata": {},
+          "text": "The New Mexico whiptail lizard is a crossbreed of a western whiptail, which lives in the desert, and the little striped whiptail, which favours grasslands. The lizard is a female-only species that reproduces by producing an egg through parthenogenesis. Despite reproducing asexually, and being an all-female species, the whiptail still engages in mating behavior with other females of its own species, giving rise to the common nickname \"lesbian lizards\". A common theory is that this behavior stimulates ovulation, as those that do not \"mate\" do not lay eggs.[3]",
+          "title": "New Mexico whiptail"
+        }
+      ],
+      "selection_score_hex": "06211cfaaf763924881add806ffa2b8c",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 99,
+      "query_id": "test2776",
+      "question": "where was lars and the real girl filmed",
+      "relevant_documents": [
+        {
+          "_id": "doc95310",
+          "metadata": {},
+          "text": "The film, set in the American state of Wisconsin, was filmed with a US$12 million budget on location in Alton, Elora, King Township, Toronto, Uxbridge, and Whitevale, all located in the Canadian province of Ontario.[3][4] Film credits include Rosalie MacKintosh as \"Bianca wrangler\" and Karly Bowen as \"assistant Bianca wrangler.\"[5][6]",
+          "title": "Lars and the Real Girl"
+        }
+      ],
+      "selection_score_hex": "062ae3cbb9ab23a13efccb1ad96fbe89",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 100,
+      "query_id": "test714",
+      "question": "who is the voice of the stingray in finding nemo",
+      "relevant_documents": [
+        {
+          "_id": "doc25610",
+          "metadata": {},
+          "text": "Peterson has also voiced characters for Pixar films such as Geri in the short Geri's Game (1997), Roz in Monsters, Inc. (2001) and Monsters University (2013), Mr. Ray in Finding Nemo (2003) and Finding Dory (2016), and Dug and Alpha in Up. His most recent vocal work was Chick Hicks in Cars 3 (2017).",
+          "title": "Bob Peterson (filmmaker)"
+        }
+      ],
+      "selection_score_hex": "0644f86de6670e7b9a751c512213a753",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 101,
+      "query_id": "test491",
+      "question": "who has the most super bowls in nfl history",
+      "relevant_documents": [
+        {
+          "_id": "doc18212",
+          "metadata": {},
+          "text": "The Pittsburgh Steelers (6–2) have won the most Super Bowls with six championships, while the New England Patriots (5-4), the Dallas Cowboys (5–3), and the San Francisco 49ers (5–1) have five wins. New England has the most Super Bowl appearances with nine, while the Buffalo Bills (0–4) have the most consecutive appearances with four losses in a row from 1990 to 1993. The Miami Dolphins are the only other team to have at least three consecutive appearances: 1972–74. The Denver Broncos (3–5) have lost a record five Super Bowls. The New England Patriots (5–4), the Minnesota Vikings (0–4), and the Bills have lost four. The record for consecutive wins is two and is shared by seven franchises: the 1966–67 Green Bay Packers, the 1972–73 Miami Dolphins, the 1974–75 and 1978–79 Pittsburgh Steelers (the only team to accomplish this feat twice), the 1988–89 San Francisco 49ers, the 1992–93 Dallas Cowboys, the 1997–98 Denver Broncos, and the 2003–04 New England Patriots. Among those, Dallas (1992–93; 1995) and New England (2001; 2003–04) are the only teams to win three out of four consecutive Super Bowls. The 1972 Dolphins capped off the only perfect season in NFL history with their victory in Super Bowl VII. The only team with multiple Super Bowl appearances and no losses is the Baltimore Ravens, who in winning Super Bowl XLVII defeated and replaced the 49ers in that position. Four current NFL teams have never appeared in a Super Bowl, including franchise relocations and renaming: the Cleveland Browns, Detroit Lions, Jacksonville Jaguars, and Houston Texans, though both the Browns (1964) and Lions (1957) had won NFL championship games prior to the creation of the Super Bowl.",
+          "title": "List of Super Bowl champions"
+        }
+      ],
+      "selection_score_hex": "06615b67e547713e31af1b65b3211ac7",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 102,
+      "query_id": "test2996",
+      "question": "who starred in the film walk the line",
+      "relevant_documents": [
+        {
+          "_id": "doc102712",
+          "metadata": {},
+          "text": "Walk the Line is a 2005 American biographical drama film directed by James Mangold. The screenplay, written by Mangold and Gill Dennis, is based on two autobiographies authored by singer-songwriter Johnny Cashâ€”Man in Black: His Own Story in His Own Words and Cash: The Autobiography. The film follows Cash's early life, his romance with June Carter, and his ascent to the country music scene. It stars Joaquin Phoenix as Cash, Reese Witherspoon as Carter, Ginnifer Goodwin as Vivian Liberto, and Robert Patrick as Cash's father.",
+          "title": "Walk the Line"
+        }
+      ],
+      "selection_score_hex": "06797e2a34c8af8d6e0687e8e29064f4",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 103,
+      "query_id": "test973",
+      "question": "why does smoke come out of nyc sewers",
+      "relevant_documents": [
+        {
+          "_id": "doc34334",
+          "metadata": {},
+          "text": "Clouds of condensation can sometimes be seen rising from manholes in Manhattan through orange and white \"chimneys\". This can be caused by external water being boiled by contact with the steam pipes or by leaks in the steam system itself.[1]",
+          "title": "New York City steam system"
+        }
+      ],
+      "selection_score_hex": "0684265da734223d70a75c0bcc069b1b",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 104,
+      "query_id": "test2756",
+      "question": "suburbanization of more developed countries is mostly due to",
+      "relevant_documents": [
+        {
+          "_id": "doc94874",
+          "metadata": {},
+          "text": "Many residents of metropolitan regions work within the central urban area, and choose to live in satellite communities called suburbs and commute to work via automobile or mass transit. Others have taken advantage of technological advances to work from their homes. These processes often occur in more economically developed countries, especially in the United States, which is believed to be the first country in which the majority of the population lives in the suburbs, rather than in the cities or in rural areas. Proponents of containing urban sprawl argue that sprawl leads to urban decay and a concentration of lower income residents in the inner city.[1]",
+          "title": "Suburbanization"
+        }
+      ],
+      "selection_score_hex": "068d93866749a59021f0a56458a5774e",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 105,
+      "query_id": "test3062",
+      "question": "when did the wave hill walk off end",
+      "relevant_documents": [
+        {
+          "_id": "doc104835",
+          "metadata": {},
+          "text": "In 1975, the Labor government of Gough Whitlam finally negotiated with Vesteys to give the Gurindji back a portion of their land. This was a landmark in the land rights movement in Australia for Indigenous Australians. The handback took place on 16 August 1975 at Kalkaringi. Gough Whitlam addressed Vincent Lingiari and the Gurindji people, saying:",
+          "title": "Wave Hill walk-off"
+        }
+      ],
+      "selection_score_hex": "06a5c9295a29b40c7c73be2fed55e380",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 106,
+      "query_id": "test2411",
+      "question": "who was the top scorer in 2014 world cup",
+      "relevant_documents": [
+        {
+          "_id": "doc83363",
+          "metadata": {},
+          "text": "The winner of the Golden Boot was James Rodríguez.",
+          "title": "2014 FIFA World Cup statistics"
+        }
+      ],
+      "selection_score_hex": "06ae4aa71b3489a957028b268c8f2f95",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 107,
+      "query_id": "test177",
+      "question": "who plays the little girl in jurassic park",
+      "relevant_documents": [
+        {
+          "_id": "doc6493",
+          "metadata": {},
+          "text": "Ariana Clarice Richards (born September 11, 1979) is an American actress and painter. She is best known for her role as Lex Murphy in the blockbuster film Jurassic Park. Richards won several Young Artist Awards for her acting, but since adulthood has focused on her art career.",
+          "title": "Ariana Richards"
+        }
+      ],
+      "selection_score_hex": "06bae5e93411fa73d32fc21ddb16b32b",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 108,
+      "query_id": "test2378",
+      "question": "why was hong kong important to the british empire",
+      "relevant_documents": [
+        {
+          "_id": "doc82157",
+          "metadata": {},
+          "text": "The stability, security, and predictability of British law and government enabled Hong Kong to flourish as a centre for international trade.[23] In the colony's first decade, the revenue from the opium trade was a key source of government funds. The importance of opium reduced over time, but the colonial government was dependent on its revenues until the Japanese occupation in 1941.[23] Although the largest businesses in the early colony were operated by British, American, and other expatriates, Chinese workers provided the bulk of the manpower to build a new port city.[24]",
+          "title": "British Hong Kong"
+        }
+      ],
+      "selection_score_hex": "06bc15691eb55b472e1a9a76b0eef6f4",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 109,
+      "query_id": "test1657",
+      "question": "who starred in the movie natural born killers",
+      "relevant_documents": [
+        {
+          "_id": "doc58616",
+          "metadata": {},
+          "text": "Natural Born Killers is a 1994 American satirical black comedy crime film directed by Oliver Stone and starring Woody Harrelson, Juliette Lewis, Robert Downey Jr., Tom Sizemore, and Tommy Lee Jones. The film was released in the United States on August 26, 1994. The film tells the story of two victims of traumatic childhoods who became lovers and mass murderers, and are irresponsibly glorified by the mass media.",
+          "title": "Natural Born Killers"
+        }
+      ],
+      "selection_score_hex": "06dfc1a1ef00e0447b65ca724a3de632",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 110,
+      "query_id": "test1574",
+      "question": "can a woman carry twins from two different fathers",
+      "relevant_documents": [
+        {
+          "_id": "doc56216",
+          "metadata": {},
+          "text": "Superfecundation is the fertilization of two or more ova from the same cycle by sperm from separate acts of sexual intercourse, which can lead to twin babies from two separate biological fathers.[1][2] The term superfecundation is derived from fecund, meaning the ability to produce offspring. Heteropaternal superfecundation refers to the fertilization of two separate ova by two different fathers. Homopaternal superfecundation refers to the fertilization of two separate ova from the same father, leading to fraternal twins.[3] While heteropaternal superfecundation is referred to as a form of atypical twinning, genetically, the twins are half siblings. Superfecundation, while rare, can occur through either separate occurrences of sexual intercourse or through artificial insemination.[4]",
+          "title": "Superfecundation"
+        }
+      ],
+      "selection_score_hex": "06f4b5d9152c8e677146de1da693392b",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 111,
+      "query_id": "test175",
+      "question": "when was the abacus invented in ancient china",
+      "relevant_documents": [
+        {
+          "_id": "doc6376",
+          "metadata": {},
+          "text": "The earliest known written documentation of the Chinese abacus dates to the 2nd century BC.[21]",
+          "title": "Abacus"
+        }
+      ],
+      "selection_score_hex": "06f73e740bad8b9b36561f6ed735b518",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 112,
+      "query_id": "test2737",
+      "question": "who do they fight in the justice league",
+      "relevant_documents": [
+        {
+          "_id": "doc93912",
+          "metadata": {},
+          "text": "The Justice League often unite to face supervillains who pose catastrophic challenges to the world.",
+          "title": "Justice League"
+        }
+      ],
+      "selection_score_hex": "06f9f36798dd1ee36fb0d78ed353c9e5",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 113,
+      "query_id": "test296",
+      "question": "who was ursula the sea witch based on",
+      "relevant_documents": [
+        {
+          "_id": "doc11139",
+          "metadata": {},
+          "text": "Created by directors and screenwriters Ron Clements and John Musker, Ursula is based on the sea witch character who appears in the fairy tale \"The Little Mermaid\" by Hans Christian Andersen. However, her minor role was greatly expanded into that of a much more prominent villain for the film. Disney had struggled to cast Ursula for a year, during which the role was well sought after by several coveted television actresses at the time. Clements and Musker disagreed with lyricist Howard Ashman about who should voice the character. While the directors had written the role with Bea Arthur in mind, Ashman intended to offer it to soap opera star Joan Collins; both actresses rejected the part. When Ashman cast his second choice, Broadway actress Elaine Stritch, as Ursula, both stage veterans disagreed about the manner in which Ursula's song \"Poor Unfortunate Souls\" would be performed, and Pat Carroll was finally hired to replace Stritch after Ashman fired her. Deepening her own voice for the role, Carroll based her performance on a combination of Shakespearean actresses and car salespeople.",
+          "title": "Ursula (The Little Mermaid)"
+        },
+        {
+          "_id": "doc11147",
+          "metadata": {},
+          "text": "During production of The Little Mermaid, Ursula's design evolved and transformed dramatically. Animator Glen Keane's earliest sketches of Ursula were drawn to resemble Rae, specifically based on the actress' audition for the role.[19] The short-lived casting of Stritch as Ursula and her subsequent performance eventually inspired the animators to design the character as \"a tall, thin regal-looking sea witch\" based on manta rays and scorpion fish, complete with a long cape.[18] At one point, Ursula had also been drawn with spikes to resemble a spinefish.[5] Ursula's appearance was largely inspired by American actor and drag queen Divine,[25] who was best known for his frequent appearances in several films directed by filmmaker John Waters.[15] Similarities were first drawn between the character and the actor after animator Rob Minkoff sketched \"a vampy overweight matron\", to which Ashman responded, \"She looks like a Miami Beach matron ... playing Mah Jong",
+          "title": "Ursula (The Little Mermaid)"
+        }
+      ],
+      "selection_score_hex": "07073b5291febd85a39cd2a98fe86895",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 114,
+      "query_id": "test2969",
+      "question": "when did lynyrd skynyrd's plane crash happen",
+      "relevant_documents": [
+        {
+          "_id": "doc101754",
+          "metadata": {},
+          "text": "On October 20, 1977, a Convair CV-240 chartered by the rock band Lynyrd Skynyrd from L&J Company of Addison, Texas, ran out of fuel and crashed in Gillsburg, Mississippi, near the end of its flight from Greenville, South Carolina, to Baton Rouge, Louisiana.",
+          "title": "1977 Convair CV-240 crash"
+        }
+      ],
+      "selection_score_hex": "07177efcb0df2795d1506b16884d3973",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 115,
+      "query_id": "test1951",
+      "question": "how many episodes are in season 7 of pretty little liars",
+      "relevant_documents": [
+        {
+          "_id": "doc68415",
+          "metadata": {},
+          "text": "The season consisted of 20 episodes, in which ten episodes aired in the summer of 2016, with the remaining ten episodes aired from April 2017.[2][3][4] The season's premiere aired on June 21, 2016, on Freeform.[5] Production and filming began in the end of March 2016, which was confirmed by showrunner I. Marlene King.[6] The season premiere was written by I. Marlene King and directed by Ron Lagomarsino.[7] King revealed the title of the premiere on Twitter on March 17, 2016.[8] On August 29, 2016, it was confirmed that this would be the final season of the series.[9]",
+          "title": "Pretty Little Liars (season 7)"
+        }
+      ],
+      "selection_score_hex": "07333037389e8719439fd298ac979c0c",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 116,
+      "query_id": "test1267",
+      "question": "where did the methodist church get its name",
+      "relevant_documents": [
+        {
+          "_id": "doc44855",
+          "metadata": {},
+          "text": "The Methodist revival began with a group of men, including John Wesley (1703–1791) and his younger brother Charles (1707–1788), as a movement within the Church of England in the 18th century.[11][12] The Wesley brothers founded the \"Holy Club\" at the University of Oxford, where John was a fellow and later a lecturer at Lincoln College.[13] The club met weekly and they systematically set about living a holy life. They were accustomed to receiving Communion every week, fasting regularly, abstaining from most forms of amusement and luxury and frequently visited the sick and the poor, as well as prisoners. The fellowship were branded as \"Methodist\" by their fellow students because of the way they used \"rule\" and \"method\" to go about their religious affairs.[1] John, who was leader of the club, took the attempted mockery and turned it into a title of honour.[1][2]",
+          "title": "Methodism"
+        }
+      ],
+      "selection_score_hex": "075fa5203ebd3d31f9da932ff47a90bb",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 117,
+      "query_id": "test1508",
+      "question": "did anyone die from ebola in the us",
+      "relevant_documents": [
+        {
+          "_id": "doc53819",
+          "metadata": {},
+          "text": "In December 2014, Ebola virus cases in the United States occurred due to four laboratory-confirmed cases of Ebola virus disease (commonly known as \"Ebola\") in the United States.[3] Eleven cases have been reported, including these four cases and seven cases medically evacuated from other countries; the first was reported in September 2014.[4] Nine of the people contracted the disease outside the US and traveled into the country, either as regular airline passengers or as medical evacuees; of those nine, two died. Two people have contracted Ebola in the United States. Both were nurses who treated an Ebola patient; both have recovered.",
+          "title": "Ebola virus cases in the United States"
+        },
+        {
+          "_id": "doc53820",
+          "metadata": {},
+          "text": "On September 30, 2014, the CDC announced that Thomas Eric Duncan, a reportedly 42-year-old (later corrected by CDC reports as a 45-year-old[5]) Liberian national visiting the United States from Liberia, had been diagnosed with Ebola in Dallas, Texas.[6][7] Duncan, who had been visiting family in Dallas, was treated at Texas Health Presbyterian Hospital Dallas.[8][9] By October 4, Duncan's condition had deteriorated from \"serious but stable\" to \"critical\".[10] On October 8, Duncan died of Ebola.[11]The other three cases diagnosed in the United States as of OctoberÂ 2014[update] were:",
+          "title": "Ebola virus cases in the United States"
+        },
+        {
+          "_id": "doc53828",
+          "metadata": {},
+          "text": "Duncan's diagnosis was publicly confirmed during a CDC news conference the same day.[32][33] That evening, Duncan reported feeling better and requested to watch a movie. The following morning, Duncan was breathing rapidly and complaining of \"pain all over\".[31] By the afternoon, however, he was able to eat, and the doctor noted that he was feeling better. The next day, October 3, Duncan again reported feeling abdominal pain. That evening, the hospital contacted Chimerix, a biotechnology company developing Brincidofovir to combat the disease. The next day, Duncan's organs were failing, and he was intubated to help him breathe. In the afternoon, the hospital began administering Brincidofovir.[34][35] Nurses Nina Pham and Amber Joy Vinson continued to care for Duncan around the clock. On October 7, the hospital reported that Duncan's condition was improving.[36] However, Duncan died at 7:51 a.m. on October 8, becoming the first person to die in the United States of Ebola virus disease and the index patient for the later infections of nurses Pham and Vinson.[37][38]",
+          "title": "Ebola virus cases in the United States"
+        }
+      ],
+      "selection_score_hex": "076ab0ce9f16573350c3db5991ed3303",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 118,
+      "query_id": "test2461",
+      "question": "of which country is sofia the capital city",
+      "relevant_documents": [
+        {
+          "_id": "doc84861",
+          "metadata": {},
+          "text": "Sofia (/ˈsoʊfiə, ˈsɒf-, soʊˈfiːə/ SOH-fee-ə, SOF-, soh-FEE-ə;[11][12] Bulgarian: Со́фия, tr. Sofiya,[13][14] pronounced [ˈsɔfijə] ( listen)) is the capital and largest city of Bulgaria. 1.3 million people live in the city and 1.7 million people live in its metropolitan area.[9] The city is at the foot of Vitosha Mountain in the western part of the country. Being in the centre of the Balkan peninsula, it is midway between the Black Sea and the Adriatic Sea, and closest to the Aegean Sea.[15][16]",
+          "title": "Sofia"
+        }
+      ],
+      "selection_score_hex": "076c48208404f408bcdc3bda240af936",
+      "status": "selected_before_attack_generation_or_evaluation"
+    },
+    {
+      "certification_index": 119,
+      "query_id": "test517",
+      "question": "blue mink by the devil i was tempted",
+      "relevant_documents": [
+        {
+          "_id": "doc18966",
+          "metadata": {},
+          "text": "Ray Cooper (drums) and Anne Odell (keyboards) joined the band that summer and played on the single \"Stay With Me\" co-written by Herbie Flowers, which charted at No. 11 in November 1972.[1][3] By the time of Blue Mink's fourth album, Only When I Laugh, glam rock was supplanting the lighter pop sound of the previous few years.[1] The associated single, \"By The Devil (I Was Tempted)\", written by Guy Fletcher and Doug Flett, only reached No. 26 and the Top 10 single \"Randy\" in June 1973 was their last success.[1]",
+          "title": "Blue Mink"
+        }
+      ],
+      "selection_score_hex": "076d15f4e447e552c4db90965f7da5dd",
+      "status": "selected_before_attack_generation_or_evaluation"
+    }
+  ],
+  "seed": "reindexrepair-certification-v1",
+  "status": "candidate_selection_frozen_before_attack_generation_or_evaluation"
+}

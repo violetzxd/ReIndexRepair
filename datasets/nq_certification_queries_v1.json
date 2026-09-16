@@ -1,0 +1,566 @@
+[
+  {
+    "beir_query_id": "test1406",
+    "incident_id": "nq_cert_v1_000",
+    "question": "who does the voice of nala in the lion king",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1656",
+    "incident_id": "nq_cert_v1_001",
+    "question": "what is a real world application of an atwood machine",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1307",
+    "incident_id": "nq_cert_v1_002",
+    "question": "who's flag is red white and green",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2978",
+    "incident_id": "nq_cert_v1_003",
+    "question": "state the process that divides one nucleus into two genetically identical nuclei",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1844",
+    "incident_id": "nq_cert_v1_004",
+    "question": "cls bank deals with transactions arising out of",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test654",
+    "incident_id": "nq_cert_v1_005",
+    "question": "the casualty projections for an invasion of the japanese home islands",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test563",
+    "incident_id": "nq_cert_v1_006",
+    "question": "why dry ether is used in woods reaction",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test57",
+    "incident_id": "nq_cert_v1_007",
+    "question": "where was the capital of the habsburg empire located",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2519",
+    "incident_id": "nq_cert_v1_008",
+    "question": "when did sweet caroline start at red sox games",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1216",
+    "incident_id": "nq_cert_v1_009",
+    "question": "when was the problem of cfc's discovered",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3304",
+    "incident_id": "nq_cert_v1_010",
+    "question": "what the difference between high commissioner and ambassador",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1811",
+    "incident_id": "nq_cert_v1_011",
+    "question": "rain sleet or snow that contains a high concentration of acids is called",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test827",
+    "incident_id": "nq_cert_v1_012",
+    "question": "when does it's a wonderful life comes on",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3228",
+    "incident_id": "nq_cert_v1_013",
+    "question": "indonesia is the fourth largest country in the world",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1375",
+    "incident_id": "nq_cert_v1_014",
+    "question": "when does the call of the wild take place",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2122",
+    "incident_id": "nq_cert_v1_015",
+    "question": "sequel to a christmas story it runs in the family",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test280",
+    "incident_id": "nq_cert_v1_016",
+    "question": "the cold dry winds that blow over northern india in winter are called",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test428",
+    "incident_id": "nq_cert_v1_017",
+    "question": "i will die to defend your right to say it",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1179",
+    "incident_id": "nq_cert_v1_018",
+    "question": "what is the theme of fablehaven book 1",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2962",
+    "incident_id": "nq_cert_v1_019",
+    "question": "the fertile crescent is located between what two bodies of water",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test290",
+    "incident_id": "nq_cert_v1_020",
+    "question": "who does the voice overs for the arbys commercials",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2609",
+    "incident_id": "nq_cert_v1_021",
+    "question": "what song is played while raising the american flag",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1368",
+    "incident_id": "nq_cert_v1_022",
+    "question": "who is the cast of the new tomb raider movie",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3181",
+    "incident_id": "nq_cert_v1_023",
+    "question": "why are there 64 teams in the ncaa tournament",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test675",
+    "incident_id": "nq_cert_v1_024",
+    "question": "brian cox wonders of the universe episode 1",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test970",
+    "incident_id": "nq_cert_v1_025",
+    "question": "what is the result of electrical stimulation to the reticular formation",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1577",
+    "incident_id": "nq_cert_v1_026",
+    "question": "when does the little couples new season start",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2620",
+    "incident_id": "nq_cert_v1_027",
+    "question": "who were the first labor unions formed by",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3199",
+    "incident_id": "nq_cert_v1_028",
+    "question": "who is the prime minister of india full name",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test152",
+    "incident_id": "nq_cert_v1_029",
+    "question": "where does sex and the city take place",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2955",
+    "incident_id": "nq_cert_v1_030",
+    "question": "where is the boy who played charlie in willy wonka",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2089",
+    "incident_id": "nq_cert_v1_031",
+    "question": "where is the limbic system located and what is its function",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3217",
+    "incident_id": "nq_cert_v1_032",
+    "question": "when does the sword art online movie take place",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1141",
+    "incident_id": "nq_cert_v1_033",
+    "question": "when was the last time ny rangers won stanley cup",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test351",
+    "incident_id": "nq_cert_v1_034",
+    "question": "how did bayonet come into the english language",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test866",
+    "incident_id": "nq_cert_v1_035",
+    "question": "where does coco fit in the pixar theory",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3404",
+    "incident_id": "nq_cert_v1_036",
+    "question": "who is the man in listen to what the man said",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2719",
+    "incident_id": "nq_cert_v1_037",
+    "question": "who sang what are we doing in love",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1524",
+    "incident_id": "nq_cert_v1_038",
+    "question": "where does the story the great gatsby take place",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test140",
+    "incident_id": "nq_cert_v1_039",
+    "question": "do you cut cards to the left or right",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2957",
+    "incident_id": "nq_cert_v1_040",
+    "question": "who plays in the new mary poppins movie",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1006",
+    "incident_id": "nq_cert_v1_041",
+    "question": "when does the first nba basketball game start",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3399",
+    "incident_id": "nq_cert_v1_042",
+    "question": "what is the meaning of veronica in english",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3168",
+    "incident_id": "nq_cert_v1_043",
+    "question": "who starred in an officer and a gentleman",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test821",
+    "incident_id": "nq_cert_v1_044",
+    "question": "when did the song rapper's delight come out",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test38",
+    "incident_id": "nq_cert_v1_045",
+    "question": "what degree is a crock pot on low",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test332",
+    "incident_id": "nq_cert_v1_046",
+    "question": "who played miss wheeler in carry on teacher",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3131",
+    "incident_id": "nq_cert_v1_047",
+    "question": "where does the arrow of a wind vane point",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1814",
+    "incident_id": "nq_cert_v1_048",
+    "question": "what is the main issue behind starlink corn",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1031",
+    "incident_id": "nq_cert_v1_049",
+    "question": "actress who plays penelope garcia on criminal minds",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test953",
+    "incident_id": "nq_cert_v1_050",
+    "question": "what is the difference between governor and chief minister in india",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2308",
+    "incident_id": "nq_cert_v1_051",
+    "question": "what is the function of trnas in protein synthesis",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1121",
+    "incident_id": "nq_cert_v1_052",
+    "question": "do you need visa to go to taiwan",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1813",
+    "incident_id": "nq_cert_v1_053",
+    "question": "who plays jack skellington in nightmare before christmas",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2087",
+    "incident_id": "nq_cert_v1_054",
+    "question": "when did the us stop trading with japan",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2659",
+    "incident_id": "nq_cert_v1_055",
+    "question": "band who had a hit with heart and soul crossword",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test450",
+    "incident_id": "nq_cert_v1_056",
+    "question": "what are the 5 pillars of faith of islam",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2878",
+    "incident_id": "nq_cert_v1_057",
+    "question": "when was the first time lebron went to the finals",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test956",
+    "incident_id": "nq_cert_v1_058",
+    "question": "most of new zealands land supports which economic activity",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test737",
+    "incident_id": "nq_cert_v1_059",
+    "question": "when did red dead redemption 1 come out",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1855",
+    "incident_id": "nq_cert_v1_060",
+    "question": "bible verse about honor thy mother and father",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2914",
+    "incident_id": "nq_cert_v1_061",
+    "question": "who turns into a bear in the hobbit",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2615",
+    "incident_id": "nq_cert_v1_062",
+    "question": "where did rafael nadal win his first tennis title",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1398",
+    "incident_id": "nq_cert_v1_063",
+    "question": "star trek the next generation season 3 episode 24",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2007",
+    "incident_id": "nq_cert_v1_064",
+    "question": "theory for functional group test for aldehyde and ketones",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1502",
+    "incident_id": "nq_cert_v1_065",
+    "question": "where is gall bladder situated in human body",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2200",
+    "incident_id": "nq_cert_v1_066",
+    "question": "how old was sasuke when his clan died",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3262",
+    "incident_id": "nq_cert_v1_067",
+    "question": "who owns the golden nugget casino in atlantic city",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1741",
+    "incident_id": "nq_cert_v1_068",
+    "question": "the joint between a coxal bone of the pelvis and the sacrum",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2882",
+    "incident_id": "nq_cert_v1_069",
+    "question": "who was the mexican commander who surrendered to the texans at the capturing of san antonio",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2132",
+    "incident_id": "nq_cert_v1_070",
+    "question": "when did tim hortons open in the usa",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test697",
+    "incident_id": "nq_cert_v1_071",
+    "question": "how long is one full rotation of the earth",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1905",
+    "incident_id": "nq_cert_v1_072",
+    "question": "when was the movie cool hand luke made",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test555",
+    "incident_id": "nq_cert_v1_073",
+    "question": "what is the story of the very hungry caterpillar",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2599",
+    "incident_id": "nq_cert_v1_074",
+    "question": "how many farmers are there in the usa",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test401",
+    "incident_id": "nq_cert_v1_075",
+    "question": "what type of reproduction do whiptail lizards use",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2776",
+    "incident_id": "nq_cert_v1_076",
+    "question": "where was lars and the real girl filmed",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test714",
+    "incident_id": "nq_cert_v1_077",
+    "question": "who is the voice of the stingray in finding nemo",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2996",
+    "incident_id": "nq_cert_v1_078",
+    "question": "who starred in the film walk the line",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test973",
+    "incident_id": "nq_cert_v1_079",
+    "question": "why does smoke come out of nyc sewers",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2756",
+    "incident_id": "nq_cert_v1_080",
+    "question": "suburbanization of more developed countries is mostly due to",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test3062",
+    "incident_id": "nq_cert_v1_081",
+    "question": "when did the wave hill walk off end",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2411",
+    "incident_id": "nq_cert_v1_082",
+    "question": "who was the top scorer in 2014 world cup",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test177",
+    "incident_id": "nq_cert_v1_083",
+    "question": "who plays the little girl in jurassic park",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2378",
+    "incident_id": "nq_cert_v1_084",
+    "question": "why was hong kong important to the british empire",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1657",
+    "incident_id": "nq_cert_v1_085",
+    "question": "who starred in the movie natural born killers",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1574",
+    "incident_id": "nq_cert_v1_086",
+    "question": "can a woman carry twins from two different fathers",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test175",
+    "incident_id": "nq_cert_v1_087",
+    "question": "when was the abacus invented in ancient china",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2737",
+    "incident_id": "nq_cert_v1_088",
+    "question": "who do they fight in the justice league",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test296",
+    "incident_id": "nq_cert_v1_089",
+    "question": "who was ursula the sea witch based on",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test2969",
+    "incident_id": "nq_cert_v1_090",
+    "question": "when did lynyrd skynyrd's plane crash happen",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1951",
+    "incident_id": "nq_cert_v1_091",
+    "question": "how many episodes are in season 7 of pretty little liars",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test1267",
+    "incident_id": "nq_cert_v1_092",
+    "question": "where did the methodist church get its name",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  },
+  {
+    "beir_query_id": "test517",
+    "incident_id": "nq_cert_v1_093",
+    "question": "blue mink by the devil i was tempted",
+    "status": "frozen_certification_uninspected_retrieval_outcome"
+  }
+]
