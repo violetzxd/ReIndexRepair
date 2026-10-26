@@ -90,11 +90,3 @@ report reruns separately rather than editing frozen human judgments.
 Original code is [MIT licensed](LICENSE); data and model terms are separate
 ([DATA_LICENSES.md](DATA_LICENSES.md)). No passwords, API keys, model weights,
 private annotation workbooks or server logs should be committed.
-
-## Manuscript status and responsible use
-
-Real authors must independently and substantively compose/revise and verify
-the AI-assisted manuscript under the ICASSP 2027 LLM policy; disclosure alone
-does not close that requirement. Author information is intentionally blank in
-this research draft and must be completed before submission. These experiments
-neither certify universal safety nor remove information from model parameters.
